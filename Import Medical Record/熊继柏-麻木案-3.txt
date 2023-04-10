@@ -1,5 +1,6 @@
 #start
-dia-气阴两虚，风热伤络
+dia-气阴两虚
+dia-风热伤络
 cure-补气养阴
 cure-清热息风通络
 diease-麻木案

@@ -1,5 +1,6 @@
 #start
-dia-湿热遏肠，损伤脉络
+dia-湿热遏肠
+dia-损伤脉络
 cure-清热利湿
 cure-凉血止血
 diease-肛门前后二阴疾病案

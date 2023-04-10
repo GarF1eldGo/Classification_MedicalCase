@@ -1,5 +1,6 @@
 #start
-dia-脾虚湿盛，肝脾不和
+dia-脾虚湿盛
+dia-肝脾不和
 cure-健脾祛湿
 cure-调和肝脾
 diease-带下案

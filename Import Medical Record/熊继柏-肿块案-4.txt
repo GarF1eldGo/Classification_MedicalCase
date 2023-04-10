@@ -1,5 +1,6 @@
 #start
-dia-风热夹痰，结聚成块
+dia-风热夹痰
+dia-结聚成块
 cure-疏风清热
 cure-化痰散结
 diease-肿块案

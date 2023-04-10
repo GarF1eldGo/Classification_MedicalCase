@@ -1,5 +1,6 @@
 #start
-dia-痰热咳喘，兼痰浊蒙蔽心神
+dia-痰热咳喘
+dia-兼痰浊蒙蔽心神
 cure-清心涤痰
 cure-止咳平喘
 diease-咳喘并发昏厥案

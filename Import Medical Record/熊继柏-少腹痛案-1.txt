@@ -1,5 +1,6 @@
 #start
-dia-肝郁脾虚，湿热瘀滞
+dia-肝郁脾虚
+dia-湿热瘀滞
 cure-疏肝理脾
 cure-清利湿热
 diease-少腹痛案

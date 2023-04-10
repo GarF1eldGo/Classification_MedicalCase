@@ -1,5 +1,6 @@
 #start
-dia-气虚下陷，兼肾虚不固
+dia-气虚下陷
+dia-兼肾虚不固
 cure-益气升阳
 cure-补肾固涩
 diease-眼睑下垂案

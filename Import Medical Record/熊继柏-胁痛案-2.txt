@@ -1,5 +1,6 @@
 #start
-dia-肝郁气滞，久而化火
+dia-肝郁气滞
+dia-久而化火
 cure-疏肝清热
 diease-胁痛案
 #end

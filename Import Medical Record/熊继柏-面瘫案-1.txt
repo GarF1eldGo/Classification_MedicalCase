@@ -1,5 +1,6 @@
 #start
-dia-面口咽斜，风痰阻络
+dia-面口咽斜
+dia-风痰阻络
 cure-祛风化痰通络
 diease-面瘫案
 #end

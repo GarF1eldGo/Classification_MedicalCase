@@ -1,5 +1,6 @@
 #start
-dia-气化不利，膀胱蓄水
+dia-气化不利
+dia-膀胱蓄水
 cure-化气利水
 cure-兼以益气
 diease-少腹胀满小便频数案

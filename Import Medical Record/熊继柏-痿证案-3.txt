@@ -1,5 +1,6 @@
 #start
-dia-肝肾两亏，筋骨失养
+dia-肝肾两亏
+dia-筋骨失养
 cure-补肝肾
 cure-强筋骨
 diease-痿证案

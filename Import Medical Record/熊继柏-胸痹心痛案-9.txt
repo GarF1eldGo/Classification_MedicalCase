@@ -1,5 +1,6 @@
 #start
-dia-气血瘀滞，痰热内阻
+dia-气血瘀滞
+dia-痰热内阻
 cure-行气活血
 cure-清热化痰
 diease-胸痹心痛案

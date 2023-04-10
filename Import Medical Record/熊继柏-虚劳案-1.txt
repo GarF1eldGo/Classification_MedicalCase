@@ -1,5 +1,6 @@
 #start
-dia-暑病余热未清，气津两伤
+dia-暑病余热未清
+dia-气津两伤
 cure-清热生津
 cure-益气和胃
 diease-虚劳案

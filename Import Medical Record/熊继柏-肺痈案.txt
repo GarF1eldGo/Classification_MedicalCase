@@ -1,5 +1,6 @@
 #start
-dia-热毒壅肺，痰瘀互结
+dia-热毒壅肺
+dia-痰瘀互结
 cure-清肺化痰
 cure-逐瘀排脓
 diease-肺痈案

@@ -1,5 +1,6 @@
 #start
-dia-心气不足，痰湿内阻
+dia-心气不足
+dia-痰湿内阻
 cure-益气养心
 cure-利湿化痰
 diease-心悸心慌案

@@ -1,5 +1,6 @@
 #start
-dia-气血亏虚，清阳不升
+dia-气血亏虚
+dia-清阳不升
 diease-眩晕案
 #end
 】

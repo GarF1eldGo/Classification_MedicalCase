@@ -1,5 +1,7 @@
 #start
-dia-痰瘀合阻，蒙蔽心神，闭塞清窍
+dia-痰瘀合阻
+dia-蒙蔽心神
+dia-闭塞清窍
 cure-化痰祛瘀
 cure-开窍醒神
 diease-外伤后持续昏迷案

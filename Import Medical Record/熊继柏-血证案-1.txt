@@ -1,5 +1,6 @@
 #start
-dia-下焦湿热，损伤血络
+dia-下焦湿热
+dia-损伤血络
 cure-清热泻火
 cure-凉血止血
 diease-血证案

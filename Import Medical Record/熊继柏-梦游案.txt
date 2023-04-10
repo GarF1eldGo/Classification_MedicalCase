@@ -1,5 +1,6 @@
 #start
-dia-胆火内扰，心神不宁
+dia-胆火内扰
+dia-心神不宁
 cure-清泻胆火
 cure-养心安神
 diease-梦游案

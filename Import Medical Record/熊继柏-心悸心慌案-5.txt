@@ -1,5 +1,6 @@
 #start
-dia-心阳不足，肝胆气虚
+dia-心阳不足
+dia-肝胆气虚
 diease-心悸心慌案
 #end
 】

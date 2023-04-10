@@ -1,5 +1,6 @@
 #start
-dia-肝气郁滞，郁久成积
+dia-肝气郁滞
+dia-郁久成积
 cure-疏肝解郁
 cure-行气消积
 diease-肿块案

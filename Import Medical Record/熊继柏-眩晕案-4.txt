@@ -1,5 +1,7 @@
 #start
-dia-湿热壅阻，腑气不通，上扰眩晕
+dia-湿热壅阻
+dia-腑气不通
+dia-上扰眩晕
 cure-通腑泻湿热
 cure-止眩晕
 diease-眩晕案

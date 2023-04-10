@@ -1,5 +1,6 @@
 #start
-dia-风邪外袭，痰湿阻络
+dia-风邪外袭
+dia-痰湿阻络
 cure-先解表袪风
 cure-宣肺止咳；后化痰袪风通络
 diease-面瘫案

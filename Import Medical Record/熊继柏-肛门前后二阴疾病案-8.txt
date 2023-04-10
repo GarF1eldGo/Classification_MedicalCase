@@ -1,5 +1,6 @@
 #start
-dia-脾胃气虚，湿热下注
+dia-脾胃气虚
+dia-湿热下注
 cure-补中益气
 cure-清热利湿
 diease-肛门前后二阴疾病案

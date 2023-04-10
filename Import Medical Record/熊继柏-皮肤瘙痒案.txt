@@ -1,5 +1,6 @@
 #start
-dia-风邪犯表，火毒炽盛
+dia-风邪犯表
+dia-火毒炽盛
 cure-清热解毒
 cure-疏风止痒
 diease-皮肤瘙痒案

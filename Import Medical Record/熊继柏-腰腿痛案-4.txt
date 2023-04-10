@@ -1,5 +1,6 @@
 #start
-dia-肾阳不足，命门火衰
+dia-肾阳不足
+dia-命门火衰
 cure-温补肾阳
 cure-益精填髓
 diease-腰腿痛案

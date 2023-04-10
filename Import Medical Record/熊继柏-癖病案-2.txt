@@ -1,5 +1,6 @@
 #start
-dia-肝郁气滞，血瘀痰阻
+dia-肝郁气滞
+dia-血瘀痰阻
 cure-疏肝解郁
 cure-化痰散结
 diease-癖病案

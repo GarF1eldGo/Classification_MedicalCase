@@ -1,5 +1,6 @@
 #start
-dia-阴虚火旺，心肾不交
+dia-阴虚火旺
+dia-心肾不交
 cure-滋阴降火
 cure-益肾固精
 diease-妇科杂病案

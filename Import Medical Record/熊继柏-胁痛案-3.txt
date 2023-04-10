@@ -1,5 +1,6 @@
 #start
-dia-外伤损络，瘀滞胁肋
+dia-外伤损络
+dia-瘀滞胁肋
 cure-活血化瘀
 cure-疏肝通络
 diease-胁痛案

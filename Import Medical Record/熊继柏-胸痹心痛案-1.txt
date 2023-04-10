@@ -1,5 +1,6 @@
 #start
-dia-气滞血瘀，胸阳不布
+dia-气滞血瘀
+dia-胸阳不布
 cure-行气祛瘀通胸阳
 diease-胸痹心痛案
 #end

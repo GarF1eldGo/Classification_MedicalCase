@@ -1,5 +1,6 @@
 #start
-dia-下元虚寒，兼湿热下注
+dia-下元虚寒
+dia-兼湿热下注
 cure-清利湿热
 cure-兼以温补下元
 diease-遗精、阳痿案

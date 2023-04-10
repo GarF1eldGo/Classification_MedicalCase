@@ -1,5 +1,6 @@
 #start
-dia-痰热胸痹，肝风拘急
+dia-痰热胸痹
+dia-肝风拘急
 cure-通痹宽胸清痰热
 cure-平肝息风止拘挛
 diease-胸痹心痛案

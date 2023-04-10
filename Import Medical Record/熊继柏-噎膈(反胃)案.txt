@@ -1,5 +1,6 @@
 #start
-dia-痰气交阻，兼瘀血内结
+dia-痰气交阻
+dia-兼瘀血内结
 cure-化痰降气
 cure-破结行瘀
 diease-噎膈(反胃)案

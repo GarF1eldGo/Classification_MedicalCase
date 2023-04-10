@@ -1,5 +1,6 @@
 #start
-dia-痰气郁结，心神不宁
+dia-痰气郁结
+dia-心神不宁
 cure-化痰解郁
 cure-养心安神
 diease-癫狂痫案

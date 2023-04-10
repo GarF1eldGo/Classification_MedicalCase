@@ -1,5 +1,6 @@
 #start
-dia-阴虚阳亢，风火上扰
+dia-阴虚阳亢
+dia-风火上扰
 cure-平肝息风
 cure-清热降火
 diease-振颤证案

@@ -1,5 +1,6 @@
 #start
-dia-肺阴亏虚，虚火上炎
+dia-肺阴亏虚
+dia-虚火上炎
 cure-滋阴润肺
 cure-止咳化痰
 diease-肺痛案

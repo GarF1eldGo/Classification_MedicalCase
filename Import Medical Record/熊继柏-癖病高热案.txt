@@ -1,5 +1,6 @@
 #start
-dia-风热夹胆火，爆防高热
+dia-风热夹胆火
+dia-爆防高热
 cure-疏风热
 cure-泻胆火
 diease-癖病高热案

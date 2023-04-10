@@ -1,5 +1,6 @@
 #start
-dia-腑实热结，气津两亏
+dia-腑实热结
+dia-气津两亏
 cure-泻热通腑,益气生津
 diease-肿块案
 #end

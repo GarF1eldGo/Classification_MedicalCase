@@ -1,5 +1,6 @@
 #start
-dia-痰热气滞，闭阻清窍
+dia-痰热气滞
+dia-闭阻清窍
 cure-清热化痰
 cure-理气通窍
 diease-耳疾(耳鸣耳聋)案

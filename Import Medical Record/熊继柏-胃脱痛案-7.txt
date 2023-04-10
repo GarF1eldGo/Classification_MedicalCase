@@ -1,5 +1,6 @@
 #start
-dia-肝胃虚寒，气滞夹瘀
+dia-肝胃虚寒
+dia-气滞夹瘀
 cure-温胃暖肝
 cure-行气止痛
 diease-胃脱痛案

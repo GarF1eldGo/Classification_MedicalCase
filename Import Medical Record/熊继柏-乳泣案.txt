@@ -1,5 +1,6 @@
 #start
-dia-气血亏虚，失于固摄
+dia-气血亏虚
+dia-失于固摄
 cure-补气养血
 cure-收敛固涩
 diease-乳泣案

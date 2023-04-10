@@ -1,5 +1,6 @@
 #start
-dia-肝郁化火，迫血妄行
+dia-肝郁化火
+dia-迫血妄行
 cure-疏肝解郁
 cure-清热止血
 diease-斑疹案

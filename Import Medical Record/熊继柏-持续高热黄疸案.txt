@@ -1,5 +1,6 @@
 #start
-dia-热毒伤血，高热并瘀热发黄
+dia-热毒伤血
+dia-高热并瘀热发黄
 cure-凉血、清热、退黄
 diease-持续高热黄疸案
 #end

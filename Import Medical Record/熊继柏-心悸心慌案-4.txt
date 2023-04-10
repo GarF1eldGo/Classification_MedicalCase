@@ -1,5 +1,6 @@
 #start
-dia-心阴不足，阳气虚弱
+dia-心阴不足
+dia-阳气虚弱
 cure-滋阴养血
 cure-益气温阳
 cure-复脉定悸

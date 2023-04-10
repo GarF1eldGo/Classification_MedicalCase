@@ -1,5 +1,6 @@
 #start
-dia-阴虚阳亢，筋失濡养
+dia-阴虚阳亢
+dia-筋失濡养
 cure-镇肝息风
 cure-滋阴潜阳
 diease-振颤案

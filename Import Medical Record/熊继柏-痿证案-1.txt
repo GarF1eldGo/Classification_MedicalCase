@@ -1,5 +1,6 @@
 #start
-dia-肝肾阴虚，髓枯筋痿
+dia-肝肾阴虚
+dia-髓枯筋痿
 cure-补益肝肾
 cure-滋阴清热
 diease-痿证案

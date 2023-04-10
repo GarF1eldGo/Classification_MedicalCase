@@ -1,5 +1,6 @@
 #start
-dia-气血亏虚，脉络瘀阻
+dia-气血亏虚
+dia-脉络瘀阻
 cure-补气益血
 cure-活血通络
 diease-面疹案

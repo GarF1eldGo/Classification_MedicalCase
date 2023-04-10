@@ -1,5 +1,6 @@
 #start
-dia-湿热血瘀，肠痈腹痛
+dia-湿热血瘀
+dia-肠痈腹痛
 cure-泻热破瘀
 diease-肠痈案
 #end

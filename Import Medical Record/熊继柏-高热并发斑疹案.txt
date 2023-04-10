@@ -1,5 +1,6 @@
 #start
-dia-热邪炽盛，气血两燔
+dia-热邪炽盛
+dia-气血两燔
 cure-清热泻火
 cure-凉血解毒
 diease-高热并发斑疹案

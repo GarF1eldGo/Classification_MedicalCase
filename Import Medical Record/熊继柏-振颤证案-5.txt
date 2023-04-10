@@ -1,5 +1,6 @@
 #start
-dia-阴虚阳亢，肝风内动
+dia-阴虚阳亢
+dia-肝风内动
 cure-镇肝息风
 cure-滋阴潜阳
 diease-振颤证案

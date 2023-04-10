@@ -1,5 +1,6 @@
 #start
-dia-脾气亏虚，失于固摄
+dia-脾气亏虚
+dia-失于固摄
 cure-健脾益气
 cure-止带固摄
 diease-带下案

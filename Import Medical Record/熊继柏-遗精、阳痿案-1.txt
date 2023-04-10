@@ -1,5 +1,6 @@
 #start
-dia-肾气亏虚，精关不固
+dia-肾气亏虚
+dia-精关不固
 cure-补益肾精
 cure-固涩止遗
 diease-遗精、阳痿案

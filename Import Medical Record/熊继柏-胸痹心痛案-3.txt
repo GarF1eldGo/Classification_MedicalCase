@@ -1,5 +1,6 @@
 #start
-dia-心气虚，痰浊闭阻
+dia-心气虚
+dia-痰浊闭阻
 cure-补气通阳
 cure-化痰宽胸
 diease-胸痹心痛案

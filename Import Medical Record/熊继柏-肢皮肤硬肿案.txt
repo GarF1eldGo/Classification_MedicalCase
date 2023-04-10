@@ -1,5 +1,6 @@
 #start
-dia-营卫滞涩，皮肤顽厚
+dia-营卫滞涩
+dia-皮肤顽厚
 cure-调和营卫
 cure-通阳行痹
 diease-肢皮肤硬肿案

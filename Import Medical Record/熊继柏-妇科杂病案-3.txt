@@ -1,5 +1,6 @@
 #start
-dia-胆胃不和，痰热内扰兼血瘀
+dia-胆胃不和
+dia-痰热内扰兼血瘀
 cure-清胆和胃
 cure-清热化痰兼活血化瘀
 diease-妇科杂病案

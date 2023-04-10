@@ -1,5 +1,6 @@
 #start
-dia-心胆不宁，痰热内阻
+dia-心胆不宁
+dia-痰热内阻
 cure-宁心安神
 cure-清化痰热
 diease-郁证案

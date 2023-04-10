@@ -1,5 +1,6 @@
 #start
-dia-气滞血瘀，痹阻脉络
+dia-气滞血瘀
+dia-痹阻脉络
 cure-活血行气
 cure-祛瘀通络
 diease-斑疹案

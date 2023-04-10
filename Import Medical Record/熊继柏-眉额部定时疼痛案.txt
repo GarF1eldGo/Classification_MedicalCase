@@ -1,5 +1,6 @@
 #start
-dia-肝血不足，虚热头痛
+dia-肝血不足
+dia-虚热头痛
 cure-养肝血
 cure-清虚热
 diease-眉额部定时疼痛案

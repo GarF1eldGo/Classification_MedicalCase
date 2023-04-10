@@ -1,5 +1,6 @@
 #start
-dia-湿热壅盛，痰热咳喘
+dia-湿热壅盛
+dia-痰热咳喘
 cure-清热利湿
 cure-化痰平喘
 diease-水肿案

@@ -1,5 +1,6 @@
 #start
-dia-寒凝肝脉，气机郁滞
+dia-寒凝肝脉
+dia-气机郁滞
 cure-行气疏肝
 cure-散寒止痛
 diease-疝气案
