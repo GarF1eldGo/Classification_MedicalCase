@@ -1,3 +1,5 @@
+#book
+熊继柏临证医案实录1
 #start
 dia-阴虚血热
 cure-滋阴降火
