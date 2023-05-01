@@ -1,3 +1,5 @@
+#book
+熊继柏临证医案实录1
 #start
 dia-燥热伤肺
 cure-清燥润肺
