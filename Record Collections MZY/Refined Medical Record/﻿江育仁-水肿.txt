@@ -1,14 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-dia-良由风邪外客
+dia-风邪外客
 dia-脾湿不化
-dia-夫面肿曰风
-dia-足肿日湿
-dia-
-cure-拟从师脾同治缘肺主一身之气化
-cure-且肺主皮毛
-cure-宣
+cure-宣肺胜湿
 #end
 八、宣肺运脾法治愈水肿一例
 陈XX,男，4岁o

@@ -1,10 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-cure-鼻为肺之窍
-cure-肺为气之主
-cure-外邪犯肺
-cure-触动肺
+dia-外邪犯肺
+cure-宣肺平喘
+cure-脱敏解痉
 #end
 二、脱敏解痉法治愈哮喘一例
 汤xX,男，38岁.

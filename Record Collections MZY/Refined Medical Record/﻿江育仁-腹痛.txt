@@ -1,10 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-为脾寒肝狂
+dia-脾寒肝狂
 dia-胃气上逆
-dia-本例汤
-dia-
 cure-温脾安肠
 cure-平肝镇痉
 #end

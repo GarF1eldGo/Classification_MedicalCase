@@ -1,12 +1,13 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此湿浊鬃滞
+dia-湿浊鬃滞
 dia-结而成痰
 dia-病延日久
 dia-阴分已亏
-cure-拟予清热化痰、软坚散结
-cure-并益肾阴为法
+cure-清热化痰
+cure-软坚散结
+cure-并益肾阴
 cure-
 #end
 

@@ -1,6 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
+dia-狐惑
+cure-清解
 #end
 .十一、清解法治愈狐惑一例
 xx

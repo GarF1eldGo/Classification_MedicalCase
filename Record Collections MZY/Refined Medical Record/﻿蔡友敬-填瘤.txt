@@ -1,8 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此系痰浊凝聚
-dia-脾失健运之征
+dia-痰浊凝聚
+dia-脾失健运
 cure-治宜软坚散结
 cure-化痰健脾
 #end

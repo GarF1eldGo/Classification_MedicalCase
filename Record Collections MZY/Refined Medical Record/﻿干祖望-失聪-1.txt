@@ -1,9 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
-cure-邪侵笼葱
-cure-始失一表
-cure-暂取宣泄与升清
+dia-邪侵笼葱
 #end
 
 例一钱xx,女，44岁。

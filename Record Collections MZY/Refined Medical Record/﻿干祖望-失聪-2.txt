@@ -1,9 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
-cure-欲制水
-cure-先培土
-cure-取六君
+dia-败津腐液
 #end
 
 例二高XX,男，48岁。

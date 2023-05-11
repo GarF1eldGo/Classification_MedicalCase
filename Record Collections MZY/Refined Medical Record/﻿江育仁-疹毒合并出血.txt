@@ -1,14 +1,12 @@
 #book
 中国现代名中医医案精华
 #start
-dia-为锣毒内逼
+dia-锣毒内逼
 dia-灼伤血络
 dia-邪热迫血妄行
-dia-势将内陷而
-cure-治予辛凉达表
+cure-辛凉达表
 cure-清营凉血
-cure-益气固脱合进
-cure-以冀正气
+cure-益气固脱
 #end
 十一、凉血益气法治愈疹毒合并出血一例
 夏xx,男，5岁p

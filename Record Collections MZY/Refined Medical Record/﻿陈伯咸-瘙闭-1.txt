@@ -4,6 +4,7 @@
 cure-治以滋肾清热
 cure-宣气化瘀
 cure-利窍通闭
+dia-瘙闭
 #end
 
 例一刘xx,男，70岁。

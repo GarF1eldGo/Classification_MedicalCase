@@ -1,11 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证属内有秋滞
+dia-内有秋滞
 dia-外感新猿
 dia-体壮邪实
-cure-拟清肠导滞
-cure-行气解表为法
+cure-清肠导滞
+cure-行气解表
 #end
 
 例一李xX,23岁，已婚。

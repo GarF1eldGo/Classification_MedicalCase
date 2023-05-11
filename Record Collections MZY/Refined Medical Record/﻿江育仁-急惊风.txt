@@ -1,11 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-为邪毒化火
+dia-邪毒化火
 dia-热结阳明
 dia-挟风内陷厥阴
-cure-药用苦辛通降
-cure-解毒搜风法
+cure-苦辛通降
+cure-解毒搜风
 #end
 治愈急惊风一例
 俞XX,女，12岁。

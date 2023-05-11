@@ -1,9 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-cure-胎元不固
-cure-慎防漏堕
-cure-宜固胎止血
+dia-胎元不固
+cure-固胎止血
 #end
 四、圣愈汤治愈胎漏一例
 X

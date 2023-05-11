@@ -3,6 +3,8 @@
 #start
 dia-肾阴不充
 dia-湿热蕴结成石
+cure-通利排石
+cure-护肾
 #end
 治愈石淋一例
 苗XX,男，58岁。

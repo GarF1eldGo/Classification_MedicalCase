@@ -1,15 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-时值暑令
-dia-由于气血不足
+dia-气血不足
 dia-肌肉脆薄
 dia-暑风夹痰
-dia-乘
-cure-首宜熄风平肝
+cure-熄风平肝
 cure-豁痰导痰
-cure-辅以通络之品
-cure-以防风淫
 #end
 治愈小儿麻痹一例
 谢XX,男，5岁

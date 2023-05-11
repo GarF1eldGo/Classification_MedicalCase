@@ -1,12 +1,12 @@
 #book
 中国现代名中医医案精华
 #start
-dia-为肝肾阴虚
+dia-肝肾阴虚
 dia-水不涵木
 dia-肝阳上亢
-cure-拟平肝潜阳
+cure-平肝潜阳
 cure-滋水涵木
-cure-疏风定痛之法
+cure-疏风定痛
 #end
 七、滋肾平肝法治愈经行头痛一例
 xX

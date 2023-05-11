@@ -1,7 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
-dia-属产后血虚
+dia-产后血虚
 dia-脑失其养
 dia-脾虚不运
 dia-化源亏乏

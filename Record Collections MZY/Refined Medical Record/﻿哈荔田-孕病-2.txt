@@ -1,11 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证系湿热互结
+dia-湿热互结
 dia-湿重于热
 dia-兼感外邪
-cure-治以扶正达表
-cure-行气化湿法内
+cure-扶正达表
+cure-行气化湿
 #end
 
 例二张xX,38岁，已婚。

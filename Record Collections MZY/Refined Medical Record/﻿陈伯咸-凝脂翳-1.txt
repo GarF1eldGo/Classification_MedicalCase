@@ -1,8 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-cure-治以疏风清热
-cure-平肝去翳之法
+cure-疏风清热
+cure-平肝去翳
+dia-风热邪毒
+dia-凝脂翳
 #end
 
 例一赵xx,男，35岁c
