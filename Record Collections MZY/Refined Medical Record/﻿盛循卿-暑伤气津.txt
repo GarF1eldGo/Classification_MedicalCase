@@ -1,9 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-cure-证为暑伤气阴
+cure-暑伤气阴
 cure-津气欲脱
-cure-拟生脉散合清暑益
+cure-脉散合清
 #end
 暑伤气津一例
 袁XX,男，61岁o

@@ -1,10 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-dia-当认为肾主水
-dia-主藏精
-dia-今肾虚而水无所主
-dia-精复处
+dia-肾虚
+cure-益肾纳气
+cure-和胃降逆
 #end
 
 例一周xx,男，22岁。

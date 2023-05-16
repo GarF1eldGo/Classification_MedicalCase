@@ -1,7 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-cure-当以益气养阴
+dia-阴虚火旺
+dia-津凝为痰
+cure-益气养阴
 cure-清火化痰
 #end
 

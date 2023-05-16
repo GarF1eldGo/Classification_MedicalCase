@@ -1,9 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-m期内痔
-dia-湿热型
-cure-清利湿热、消肿止血、润肠
+dia-湿热
+cure-清利湿热
+cure-消肿止血
+cure-润肠
 #end
 
 例一朱XX,男，49岁，已婚。

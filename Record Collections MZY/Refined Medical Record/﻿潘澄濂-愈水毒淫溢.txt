@@ -1,13 +1,12 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此属热结阳明
+dia-热结阳明
 dia-邪蒙心窍
 dia-三焦阳塞
 dia-化源枯涸决
-cure-急投通泄转热、开窍律利之剂
-cure-用生大黄
-cure-枳壳、百
+cure-通泄转热
+cure-开窍律利
 #end
 愈水毒淫溢一例
 费XX,男，30岁。

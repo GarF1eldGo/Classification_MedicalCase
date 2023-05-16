@@ -1,8 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
-dia-踩疮
-dia-下肢慢性溃疡为温热下注
+dia-温热下注
 dia-营卫失病
 cure-清热利湿
 cure-和营活血

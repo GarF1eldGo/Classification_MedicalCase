@@ -1,8 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-cure-给于温补脾胃之药
-cure-少加疏肝理气之品
+cure-温补脾胃
+cure-疏肝理气
 #end
 
 例二刘XX,男，中年。

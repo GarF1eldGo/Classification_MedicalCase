@@ -1,8 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此为痰火湿盛
-dia-壅结而成
+dia-痰火湿盛
+cure-燥湿化痰
+cure-清泄心脾
 #end
 
 例一4LXX,女，19岁。

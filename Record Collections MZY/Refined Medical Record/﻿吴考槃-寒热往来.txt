@@ -3,7 +3,7 @@
 #start
 dia-气营两虚
 dia-营卫失调
-cure-拟调补气营
+cure-调补气营
 #end
 十七、调补气营法治愈寒热往来一例
 xx

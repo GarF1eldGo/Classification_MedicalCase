@@ -3,7 +3,7 @@
 #start
 cure-滋肾健脾
 cure-益气安胎
-cure-佐以养肝清热止血
+cure-养肝清热止血
 #end
 治愈胎动不安一例
 Xx

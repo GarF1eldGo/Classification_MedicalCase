@@ -1,8 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-dia-肛门疼痒证
-dia-脾虚湿热下注型.
+dia-脾虚湿热
+cure-健脾
+cure-清热渗湿
 #end
 
 例一张Xx,男，40岁。

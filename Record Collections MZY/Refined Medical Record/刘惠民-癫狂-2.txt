@@ -7,7 +7,7 @@ dia-心血内亏
 dia-心神失养
 cure-理气化痰
 cure-清肝滋肾
-cure-养心安神1
+cure-养心安神
 #end
 
 例二吕X,女，22岁。

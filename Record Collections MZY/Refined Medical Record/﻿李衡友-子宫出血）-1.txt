@@ -3,9 +3,9 @@
 #start
 dia-经漏
 dia-青春期功能性子宫出血
-dia-子宫发育不全为肝
-cure-先疏肝清热
-cure-后滋养肝肾
+dia-肝郁
+cure-疏肝清热
+cure-滋养肝肾
 #end
 
 例一陈X*,女，20岁，未婚。

@@ -1,6 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
+dia-湿热久蕴
+dia-脾胃虚弱
 #end
 胁痛、臧模一例
 Xx

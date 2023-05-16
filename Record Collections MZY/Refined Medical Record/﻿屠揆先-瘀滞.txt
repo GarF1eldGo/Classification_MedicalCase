@@ -1,10 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-为正气不足
+dia-正气不足
 dia-痰浊阻于经络
 dia-血络瘀滞
-cure-拟用扶正化浊、和络消瘀法
+cure-扶正化浊
+cure-和络消瘀
 #end
 瘀滞一例
 X•

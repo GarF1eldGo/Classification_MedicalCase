@@ -1,12 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-肛门瘙痒症
-dia-肝肾阴虚型
+dia-肝肾阴虚
 cure-阔补肝肾
 cure-滋阴降火
 cure-袪风止痒
-cure-内服知柏地黄汤加
 #end
 
 例二陈XX,男，51岁。

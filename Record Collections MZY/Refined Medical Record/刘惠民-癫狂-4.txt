@@ -3,6 +3,8 @@
 #start
 dia-痰火郁结
 dia-阻闭清窍
+cure-清肝泻火
+cure-涤痰开窍
 #end
 
 例四扬X,男，61岁。

@@ -1,13 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-dia-已入失血之途
 dia-气血涣散
-dia-须防阴阳离脱之变
-dia-病人
-cure-
-cure-逋以培元补气接血、急则塞流之计
-cure-并输血20D毫升.
+cure-补气接血
+cure-急则塞流
 #end
 
 例三罗xX,女，16岁。

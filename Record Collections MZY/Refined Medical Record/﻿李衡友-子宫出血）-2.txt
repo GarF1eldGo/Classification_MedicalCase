@@ -2,7 +2,7 @@
 中国现代名中医医案精华
 #start
 dia-经漏
-dia-为阴虚肝旺
+dia-阴虚肝旺
 cure-养阴平肝
 #end
 

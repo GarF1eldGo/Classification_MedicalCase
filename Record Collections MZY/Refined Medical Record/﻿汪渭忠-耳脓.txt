@@ -1,8 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-耳脓（急性中耳炎）为肝胆湿热蕴蒸
-dia-上侵耳窍所
+dia-肝胆湿热
+dia-上侵耳窍
 cure-清热解毒
 cure-排脓消肿
 #end

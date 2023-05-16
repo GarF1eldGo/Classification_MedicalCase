@@ -1,8 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-流火（下肢丹毒）为湿热下注
-dia-血瘀蕴毒.
+dia-湿热下注
+dia-血瘀蕴毒
 cure-清热利湿
 cure-凉血解毒
 #end

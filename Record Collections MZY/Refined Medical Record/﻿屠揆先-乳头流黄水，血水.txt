@@ -1,12 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-平时郁怒伤肝
+dia-郁怒伤肝
 dia-肝气失调
 dia-肝风上扰
-dia-故血压偏高而
-cure-拟用疏肝熄风
-cure-和络清化法
+cure-疏肝熄风
+cure-和络清化
 #end
 乳头流黄水，血水一例
 XX

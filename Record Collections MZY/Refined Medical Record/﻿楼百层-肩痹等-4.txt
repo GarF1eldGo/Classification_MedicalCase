@@ -1,12 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-病由痰浊内阻
+dia-痰浊内阻
 dia-肺失宣降
-dia-故遇风寒则气郁痰壅而哮
-cure-治当求本
-cure-法用隔姜灸
-cure-以益肺肾之气
+dia-气郁痰壅
+cure-肺肾之气
 cure-顺气豁痰
 #end
 

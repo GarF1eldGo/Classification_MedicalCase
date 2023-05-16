@@ -3,8 +3,7 @@
 #start
 dia-病由卫气不固
 dia-腾理空疏
-dia-致风寒湿邪乘虚侵袭
-dia-经
+dia-风寒湿邪
 #end
 
 例二瘙解案

@@ -3,8 +3,7 @@
 #start
 dia-肝郁失疏
 dia-中运失顺
-cure-拟疏肝解郁
-cure-调理中州仿大小柴胡法
+cure-疏肝解郁
 #end
 
 例一陆XX,男，50岁。

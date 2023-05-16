@@ -3,10 +3,9 @@
 #start
 dia-外感疫毒
 dia-毒邪内陷
-dia-肠热致溃C
-cure-治宜苦寒清热
+cure-苦寒清热
 cure-凉血解毒
-cure-甘润生津为主病势危
+cure-甘润生津
 #end
 治愈疫毒痢一例
 曾XX女，13岁。

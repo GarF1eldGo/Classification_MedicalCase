@@ -1,7 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
-dia-为肾虚型（偏肾阳虚）
+dia-肾阳虚
 cure-补肾助阳
 #end
 

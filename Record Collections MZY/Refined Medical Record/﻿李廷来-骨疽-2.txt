@@ -1,9 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此属阴寒虚证
-cure-治宜温阳化滞
-cure-以回其阳
+dia-阴寒虚证
+cure-温阳化滞
 #end
 
 例二孙xx,女，32岁。

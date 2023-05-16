@@ -3,7 +3,7 @@
 #start
 cure-滋养肝肾
 cure-活血化瘀
-cure-佐以利湿以治疣汤加味
+cure-利湿
 #end
 十一.治疣汤加味治愈肛门尖锐湿疣一例
 XX

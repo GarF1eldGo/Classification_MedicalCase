@@ -1,9 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-cure-治宜补阳和阴
+cure-补阳和阴
 cure-固中气
-cure-消痰利水用芍药甘草附子
+cure-消痰利水
 #end
 法治疗哮喘一例
 梁XX,女，68岁。

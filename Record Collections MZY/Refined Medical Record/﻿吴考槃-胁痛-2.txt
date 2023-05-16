@@ -1,10 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-cure-肝生于左
-cure-其藏在右
-cure-其脉挟督而上顶颠
-cure-主
+dia-肝血不足
+dia-脉失洒陈
+cure-调营和肝
 #end
 
 例二郑XX,女，41岁。

@@ -1,11 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-病属心脾本虚
-dia-湿热久恋不化
+dia-心脾本虚
+dia-湿热久恋
 dia-胃气失和
-cure-治宜调养脾胃
-cure-清化湿热.
+cure-调养脾胃
+cure-清化湿热
 #end
 胁痛、胃脱痛，泄泻一例
 X

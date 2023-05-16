@@ -1,13 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证属先天不足
 dia-正气亏虚
 dia-邪乘虚入
 dia-耗伤气血
-dia-损
-cure-此小儿惊风大证、姑以扶正育阴
-cure-清热熄风急治
+cure-清热熄风
 #end
 治愈惊风一例
 X

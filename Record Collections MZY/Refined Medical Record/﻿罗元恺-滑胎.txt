@@ -1,8 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-滑胎（习惯性流产）
-dia-证属脾肾虚损
+dia-滑胎
+dia-脾肾虚损
 cure-补肾健脾
 cure-佐以养血
 #end

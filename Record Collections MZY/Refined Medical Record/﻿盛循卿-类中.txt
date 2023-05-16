@@ -1,13 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-年招花甲
-dia-素体肥盛
 dia-脾弱湿困
 dia-正气本灵
-dia-难以御
-cure-治宜袪风化痰
-cure-益脾平肝方用《沈氏尊生》资寿解语
+cure-袪风化痰
+cure-益脾平肝
 #end
 治愈类中一例
 Xx

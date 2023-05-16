@@ -1,12 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证属阳气虚弱
-dia-不能鼓邪外出
+dia-阳气虚弱
+dia-鼓邪外出
 dia-麻毒之邪
 dia-内陷心肺
-cure-病情险逆
-cure-治当扶阳托邪
+cure-扶阳托邪
 cure-温宣肺气
 #end
 治愈疹毒内陷一例

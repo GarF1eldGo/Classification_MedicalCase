@@ -1,10 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
-cure-舌苔微赋
-cure-脉息弦滑
-cure-弦为有饮
-cure-滑为
+dia-肺失通调
 #end
 
 例一王XX,男，65岁。

@@ -1,11 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-dia-为F元虚冷
 dia-气血地虚
-dia-进而塞凝气滞血瘀
-dia-发为尿后
-cure-治以温煦下元
+dia-气滞血瘀
+cure-温煦下元
 cure-理气活血
 #end
 治愈尿后腹痛一例

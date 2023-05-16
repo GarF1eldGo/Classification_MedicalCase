@@ -1,8 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-奶癣（婴儿湿疹）为感受风湿热邪
-dia-蕴阻肌肤而成
+dia-风湿热邪
+dia-蕴阻肌肤
 cure-清热利湿
 cure-祛风止痒
 #end

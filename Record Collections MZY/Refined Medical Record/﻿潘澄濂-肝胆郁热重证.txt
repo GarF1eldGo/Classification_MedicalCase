@@ -1,13 +1,13 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证属肝胆郁热
+dia-肝胆郁热
 dia-胃络损伤
 dia-降利失司
 dia-气营两虚
-cure-治宜益气和胃
+cure-益气和胃
 cure-活血疏肝
-cure-佐以渗利
+cure-渗利
 #end
 五、苏叶黄连汤治疗肝胆郁热重证一例
 xx

@@ -1,9 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此由心火晚盛
-dia-结聚而成
-cure-治宜清泄心火
+dia-心火晚盛
+cure-清泄心火
 cure-渗湿利痰
 #end
 

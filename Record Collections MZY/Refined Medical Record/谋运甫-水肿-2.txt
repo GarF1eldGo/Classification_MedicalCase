@@ -1,8 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-显系水不涵木
-cure-拟滋肾平肝法
+dia-水不涵木
+cure-滋肾平肝
 #end
 
 例二王Xx,男，27岁。

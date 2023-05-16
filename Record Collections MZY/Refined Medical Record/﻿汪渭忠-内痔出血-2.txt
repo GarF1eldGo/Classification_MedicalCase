@@ -1,7 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
-dia-内痔有血为脾气虚损
+dia-脾气虚损
 dia-气不摄血
 cure-益气补血
 cure-佐以止血
