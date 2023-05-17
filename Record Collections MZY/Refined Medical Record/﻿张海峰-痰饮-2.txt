@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-痰饮
 dia-脾肺阳虚
 dia-寒饮内留
 cure-温阳涤饮

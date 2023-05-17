@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-倒经
 dia-经行吐研
 dia-肝郁化火
 dia-火气上逆

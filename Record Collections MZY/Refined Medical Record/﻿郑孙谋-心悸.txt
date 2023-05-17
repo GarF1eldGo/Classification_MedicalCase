@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-心悸
 cure-补心安神
 cure-健脾祛湿
 #end

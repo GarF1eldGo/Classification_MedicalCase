@@ -1,6 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
+disease-水肿
+cure-温运中气
 #end
 
 例六何,男，25岁。

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-痰核
 dia-痰湿凝聚
 cure-化痰袪湿
 cure-软坚散结

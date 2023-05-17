@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-险疲
 dia-脾肾两虚
 dia-脾虚为主
 cure-补脾

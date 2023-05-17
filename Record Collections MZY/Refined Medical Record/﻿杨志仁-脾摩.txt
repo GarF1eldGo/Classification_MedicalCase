@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-脾摩
 dia-心脾肾虚
 cure-益气固肾
 cure-清热利湿

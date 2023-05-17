@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-暑温
 dia-灼伤气阴
 cure-虚实夹杂
 cure-清心凉营

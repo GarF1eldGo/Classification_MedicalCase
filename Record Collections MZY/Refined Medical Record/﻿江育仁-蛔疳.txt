@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-蛔疳
 dia-损睥伤胃
 dia-肝木上亢
 cure-益气健脾

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-风疹块夹斑毒
 dia-风邪外袭
 dia-阳明热极
 cure-清阳明邪热

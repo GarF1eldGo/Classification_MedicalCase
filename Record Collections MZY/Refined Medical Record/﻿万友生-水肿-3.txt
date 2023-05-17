@@ -1,6 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
+disease-水肿
+dia-寒湿遏然
+dia-阳气偏虚
+cure-温补阳气
 #end
 
 例三姜,女，25岁。

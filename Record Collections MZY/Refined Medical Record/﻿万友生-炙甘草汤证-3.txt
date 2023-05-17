@@ -1,6 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
+disease-炙甘草汤证
+dia-阴血偏虚
+dia-虚多实少
 #end
 
 例三徐x,女，37岁。

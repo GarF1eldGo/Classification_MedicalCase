@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-癫狂
 dia-痰火郁结
 dia-阻闭清窍
 cure-清肝泻火

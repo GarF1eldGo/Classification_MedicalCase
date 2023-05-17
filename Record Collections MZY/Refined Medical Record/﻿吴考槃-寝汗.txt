@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-寝汗
 dia-营虚失守
 dia-阴液失藏
 cure-扶阳固卫

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肌痿
 dia-气血亏虚
 dia-肌肤失养
 dia-阴虚内热

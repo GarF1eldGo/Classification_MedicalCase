@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-例三妊娠疫痢一
 dia-肠内湿热郁积
 dia-病邪炽盛
 #end

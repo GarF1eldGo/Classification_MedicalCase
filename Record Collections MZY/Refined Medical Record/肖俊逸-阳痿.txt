@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-阳痿
 dia-阳损及阴
 dia-阴阳两虚
 dia-温燥太过

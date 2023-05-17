@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-乳房肿块
 cure-活血疏理
 cure-软坚消积
 #end

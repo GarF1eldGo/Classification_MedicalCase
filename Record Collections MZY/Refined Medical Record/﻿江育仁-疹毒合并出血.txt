@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-疹毒合并出血
 dia-锣毒内逼
 dia-灼伤血络
 dia-邪热迫血妄行

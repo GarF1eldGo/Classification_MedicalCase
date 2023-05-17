@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-急性腹痛
 dia-病属虫积
 dia-积久化热
 dia-热邪结于少阳阳明

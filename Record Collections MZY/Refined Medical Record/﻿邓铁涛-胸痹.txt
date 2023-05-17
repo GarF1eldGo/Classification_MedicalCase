@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胸痹
 dia-为胸痹证
 dia-属心阳虚
 dia-痰瘀闭阻

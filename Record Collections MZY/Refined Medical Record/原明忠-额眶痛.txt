@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-额眶痛
 dia-心脾气虚
 dia-阳明陈络不通
 cure-补益心脾

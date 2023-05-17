@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-经行吐血
 dia-肺阴不足
 dia-肝郁化火
 #end

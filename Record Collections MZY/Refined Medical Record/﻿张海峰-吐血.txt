@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-吐血
 dia-胃火上冲
 dia-热迫血液
 cure-清热凉血

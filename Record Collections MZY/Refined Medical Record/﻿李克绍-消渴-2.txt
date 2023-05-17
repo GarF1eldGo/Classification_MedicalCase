@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-消渴
 cure-其家长闻知前述患儿王军服五苓散有效
 cure-要求亦与此
 #end

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-湿温
 dia-湿热中阻
 cure-清热化温
 #end

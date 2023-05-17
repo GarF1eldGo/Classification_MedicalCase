@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-热厥木僵
 dia-心肾两虚
 dia-肝郁气结
 dia-阳明实热

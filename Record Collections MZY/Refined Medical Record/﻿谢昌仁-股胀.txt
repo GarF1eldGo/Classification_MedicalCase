@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-股胀
 dia-膊失健运
 dia-水湿停聚
 cure-健脾行水

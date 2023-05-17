@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-乳痈
 dia-心火晚盛
 cure-清泄心火
 cure-渗湿利痰

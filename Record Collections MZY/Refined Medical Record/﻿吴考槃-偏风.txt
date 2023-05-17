@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-偏风
 dia-风邪乘客
 cure-经络失运
 #end

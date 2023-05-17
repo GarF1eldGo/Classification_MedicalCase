@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-热盛动风
 dia-热盛动风
 cure-清解
 #end

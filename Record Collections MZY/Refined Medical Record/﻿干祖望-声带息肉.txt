@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-声带息肉
 dia-喉镜燃墀
 dia-气病血滞
 #end

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-脏躁
 dia-肝郁气逆
 dia-心脾不和
 cure-舒肝降逆

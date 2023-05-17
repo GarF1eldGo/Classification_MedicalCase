@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-寒热往来
 dia-气营两虚
 dia-营卫失调
 cure-调补气营

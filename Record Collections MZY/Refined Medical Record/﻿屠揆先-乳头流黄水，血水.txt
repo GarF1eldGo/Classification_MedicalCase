@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-乳头流黄水，血水
 dia-郁怒伤肝
 dia-肝气失调
 dia-肝风上扰

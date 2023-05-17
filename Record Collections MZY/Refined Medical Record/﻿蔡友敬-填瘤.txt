@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-填瘤
 dia-痰浊凝聚
 dia-脾失健运
 cure-治宜软坚散结

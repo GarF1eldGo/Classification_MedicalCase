@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-十三、凉血止血法控制鼻癌出血
 cure-抗癌解毒
 cure-凉血止血
 #end

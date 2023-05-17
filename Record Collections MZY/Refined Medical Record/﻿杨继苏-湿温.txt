@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-湿温
 dia-湿热蕴蒸气分
 dia-弥恋三焦
 cure-清化湿热

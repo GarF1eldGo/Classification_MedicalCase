@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-嗜睡
 #end
 六、升降阴阳法治疗嗜睡一例
 Xx

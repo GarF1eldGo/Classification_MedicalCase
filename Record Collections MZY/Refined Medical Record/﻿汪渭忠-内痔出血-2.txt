@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-内痔出血
 dia-脾气虚损
 dia-气不摄血
 cure-益气补血

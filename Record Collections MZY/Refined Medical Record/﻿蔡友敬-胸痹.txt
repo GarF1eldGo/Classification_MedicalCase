@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胸痹
 cure-治宜祛瘀通络
 cure-活血止痛
 dia-气机不和

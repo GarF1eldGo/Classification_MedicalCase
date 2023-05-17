@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-内燥证
 dia-脾失生化之源
 dia-津枯血槁
 cure-培土健脾

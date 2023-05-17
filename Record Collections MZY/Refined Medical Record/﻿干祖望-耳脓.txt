@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-耳脓
 dia-气血已衰
 dia-脓腐之恙
 dia-热毒内蒸

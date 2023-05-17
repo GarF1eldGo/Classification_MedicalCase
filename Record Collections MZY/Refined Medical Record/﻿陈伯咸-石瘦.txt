@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-石瘦
 dia-石度
 #end
 五、海藻玉壶汤治愈石瘦一例

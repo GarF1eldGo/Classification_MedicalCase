@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-解经风热型鼻渊
 dia-肺经风热
 cure-清热袪风通窍
 #end

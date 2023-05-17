@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-血崩
 dia-阴精亏损
 cure-大益气血
 cure-兼固肝肾

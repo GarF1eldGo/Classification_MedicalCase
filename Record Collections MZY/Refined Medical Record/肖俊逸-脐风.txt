@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-脐风
 dia-风毒之邪外袭
 dia-引动肝风
 cure-凉肝解毒

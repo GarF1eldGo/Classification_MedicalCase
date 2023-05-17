@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-淋浊
 dia-肾虚挟湿
 dia-络脉失和
 cure-益肾理湿

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-风排
 dia-肾阴肾阳俱虚
 dia-痰浊蒙蔽清窍
 dia-气血不能流通

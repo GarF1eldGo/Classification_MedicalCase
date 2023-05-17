@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-水肿
 dia-肝郁失调
 dia-不能为脾疏泄
 cure-疏肝以助泄

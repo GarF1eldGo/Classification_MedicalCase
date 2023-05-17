@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-朦疮
 dia-温热下注
 dia-营卫失病
 cure-清热利湿

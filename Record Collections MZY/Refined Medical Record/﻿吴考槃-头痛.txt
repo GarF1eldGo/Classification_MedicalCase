@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-头痛
 dia-劳役过度
 dia-中阳失健
 dia-气逆失顺

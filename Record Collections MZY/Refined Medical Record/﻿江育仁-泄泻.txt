@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-泄泻
 dia-气脾两伤
 cure-以酸甘和阴
 cure-清其肠热

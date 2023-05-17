@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肺痈
 dia-风热犯肺
 dia-热毒痒结
 dia-酿脓成痈

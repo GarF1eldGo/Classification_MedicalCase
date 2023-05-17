@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-呃逆
 dia-肝郁气滞
 dia-胃失和降
 dia-气逆上冲

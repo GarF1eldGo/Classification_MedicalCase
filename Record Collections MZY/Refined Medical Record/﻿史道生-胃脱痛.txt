@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胃脱痛
 dia-脾虚湿滞
 dia-旋痛虾血
 cure-清热利湿

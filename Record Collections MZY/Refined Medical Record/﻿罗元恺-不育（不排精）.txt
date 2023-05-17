@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-不育（不排精）
 dia-肾精不足
 dia-冲脉受阻
 dia-当泄不泄

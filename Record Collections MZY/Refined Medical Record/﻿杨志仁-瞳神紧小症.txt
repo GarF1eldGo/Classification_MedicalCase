@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-瞳神紧小症
 dia-肝肾阴虚
 dia-血热不行
 cure-清热凉血养阴

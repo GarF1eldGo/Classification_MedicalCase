@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-消渴
 dia-阴虚火旺
 dia-津凝为痰
 cure-益气养阴

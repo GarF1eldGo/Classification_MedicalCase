@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-子痫
 cure-清热凉肝
 #end
 一、清热凉肝法治愈子痫一例

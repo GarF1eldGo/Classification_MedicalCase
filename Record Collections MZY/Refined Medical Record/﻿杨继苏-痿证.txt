@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-痿证
 dia-气血不足
 dia-脾虚肾亏
 cure-益气养血

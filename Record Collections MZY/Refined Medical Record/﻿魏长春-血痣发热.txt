@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-血痣发热
 dia-风寒下袭
 cure-温经逐旅
 #end

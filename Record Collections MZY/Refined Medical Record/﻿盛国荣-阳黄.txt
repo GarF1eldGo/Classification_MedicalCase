@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-阳黄
 cure-症雇阳黄
 cure-清热化湿
 cure-利水退黄

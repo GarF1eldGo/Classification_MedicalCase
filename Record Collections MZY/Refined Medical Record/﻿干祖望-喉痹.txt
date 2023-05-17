@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-喉痹
 dia-木火刑金
 dia-肝失条达
 cure-柔肝伐木

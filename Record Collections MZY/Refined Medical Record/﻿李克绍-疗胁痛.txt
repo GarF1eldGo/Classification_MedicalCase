@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-疗胁痛
 #end
 疗胁痛一例
 呼xn，男，28岁，已婚。

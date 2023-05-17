@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-瘀阻肠结
 dia-留瘀为患
 cure-袪瘀降逆
 cure-养阴润燥

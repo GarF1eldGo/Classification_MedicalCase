@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胁痛
 dia-肝胆气滞
 dia-湿热蕴积成石
 cure-疏肝利胆化湿

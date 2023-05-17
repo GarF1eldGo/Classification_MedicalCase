@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胁痛
 dia-肝肾阴虚
 dia-肝气偏亢
 cure-滋养肝肾

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-少腹定时腹胀
 dia-脾肾阳虚
 dia-气化不利
 cure-温阳化气

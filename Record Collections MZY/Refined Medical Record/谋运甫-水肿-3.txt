@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-水肿
 dia-脾肾亏虚
 dia-精血不足
 cure-益肾健脾

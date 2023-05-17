@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-哮喘
 dia-感寒引及
 dia-伏饮泛溢
 #end

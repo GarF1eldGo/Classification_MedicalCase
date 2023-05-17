@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-急性乳突炎
 dia-肝阳挟火
 cure-清肝
 #end

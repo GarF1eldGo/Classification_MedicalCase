@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-遗精等
 dia-肝气郁滞
 dia-寒阻胞宫
 #end

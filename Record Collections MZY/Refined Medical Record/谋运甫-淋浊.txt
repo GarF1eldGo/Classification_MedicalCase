@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-淋浊
 dia-下元虚损
 cure-益肾补脾
 cure-温阳利湿

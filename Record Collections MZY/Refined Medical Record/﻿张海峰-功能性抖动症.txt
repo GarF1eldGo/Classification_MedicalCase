@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-功能性抖动症
 dia-肝风入络
 cure-搜风通络
 cure-柔肝镇痉

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-长期发热
 dia-营卫俱虚
 dia-阴阳失调
 cure-调和营卫

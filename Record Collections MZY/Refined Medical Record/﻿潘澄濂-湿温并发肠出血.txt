@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-湿温并发肠出血
 dia-湿温邪热
 dia-盘踞肠道
 dia-热迫傍流

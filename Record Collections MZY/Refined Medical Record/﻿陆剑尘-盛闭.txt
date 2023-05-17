@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-盛闭
 cure-膀胱气化障碍
 cure-滋肾阴
 cure-清湿热

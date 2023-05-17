@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-癫狂
 dia-痰气郁结
 dia-痰火上扰
 cure-活血化瘀治

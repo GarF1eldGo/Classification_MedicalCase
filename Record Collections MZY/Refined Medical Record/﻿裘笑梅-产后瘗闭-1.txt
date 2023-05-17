@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-产后瘗闭
 #end
 
 例一汪,女，35岁。

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-多涕症
 dia-肺怯
 dia-肺液滂沱
 cure-肾虚则接纳

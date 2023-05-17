@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胎水肿满
 dia-脾虚湿重
 dia-胎水肿满
 cure-健脾燥湿

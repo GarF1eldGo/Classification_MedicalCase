@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-激经
 dia-断为气虚
 dia-血失摄固
 cure-补气健脾

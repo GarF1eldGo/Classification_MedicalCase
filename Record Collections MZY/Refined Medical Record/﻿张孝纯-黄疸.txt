@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-黄疸
 dia-湿热郁阻
 dia-气机室滞
 cure-清肝胆湿热

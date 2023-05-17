@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-寒疝
 dia-肝肾寒湿
 dia-水湿停滞
 cure-温肝肾

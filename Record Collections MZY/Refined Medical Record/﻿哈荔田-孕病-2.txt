@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-孕病
 dia-湿热互结
 dia-湿重于热
 dia-兼感外邪

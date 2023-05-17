@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-督肉攀睛
 dia-脾胃热毒重结
 cure-清热泻火
 cure-琉风明目。

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-翔毒闭郁证
 cure-开宣肺气
 dia-砂毒失宣
 dia-闭阻肺胃

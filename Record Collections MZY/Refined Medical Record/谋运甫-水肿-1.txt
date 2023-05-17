@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-水肿
 dia-肾虚
 cure-益肾纳气
 cure-和胃降逆

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胁痛
 dia-脾虚肝郁
 dia-肝阴亏损
 cure-健脾舒肝

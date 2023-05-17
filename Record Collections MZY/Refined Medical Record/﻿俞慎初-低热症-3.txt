@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-低热症
 dia-心气不足
 dia-阴虚发热
 cure-益气养阴

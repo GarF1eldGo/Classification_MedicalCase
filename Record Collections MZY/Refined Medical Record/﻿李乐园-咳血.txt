@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-咳血
 dia-积热伤肺
 dia-痰浊内蕴
 cure-清热止血

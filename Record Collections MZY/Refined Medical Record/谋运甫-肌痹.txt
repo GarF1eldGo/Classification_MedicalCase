@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肌痹
 dia-脾虚清气下陷
 cure-健脾益气
 cure-升举袪湿

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-愈腰痛
 dia-肾虚阳弱
 dia-阴寒乘袭
 dia-气滞血瘀

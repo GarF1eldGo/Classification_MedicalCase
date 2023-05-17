@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-热入血室
 dia-胃热
 dia-热入血室
 #end

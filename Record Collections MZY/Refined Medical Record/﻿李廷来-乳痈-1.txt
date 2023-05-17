@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-乳痈
 dia-肝胃郁热
 dia-乳络不通
 dia-外邪侵袭

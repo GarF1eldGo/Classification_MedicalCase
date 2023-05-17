@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-血崩昏厥
 dia-气血大脱
 dia-元气难支
 cure-益气摄血

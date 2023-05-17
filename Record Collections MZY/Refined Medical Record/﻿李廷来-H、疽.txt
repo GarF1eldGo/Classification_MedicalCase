@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-H、疽
 dia-寒邪侵袭
 dia-气血凝滞
 cure-温经通络

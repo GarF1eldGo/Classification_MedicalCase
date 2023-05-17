@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-痛经
 dia-肝肾两损
 dia-血热血痕
 cure-补肝益肾

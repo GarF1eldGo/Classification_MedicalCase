@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-石淋
 dia-肾阴不充
 dia-湿热蕴结成石
 cure-通利排石

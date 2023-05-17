@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-温热病
 dia-素体阴虚
 cure-复阴退热
 #end

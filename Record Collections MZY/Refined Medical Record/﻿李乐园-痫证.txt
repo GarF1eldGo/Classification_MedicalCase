@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-痫证
 dia-痰火迷神
 dia-动肝风
 cure-清热涤痰

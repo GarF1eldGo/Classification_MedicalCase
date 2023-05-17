@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-郁症
 dia-忧郁之疾
 dia-湿盛痰康
 dia-蒙蔽心窍

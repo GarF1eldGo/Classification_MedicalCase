@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-急黄
 dia-湿热央毒
 dia-热毒炽盛
 dia-内闭清窍

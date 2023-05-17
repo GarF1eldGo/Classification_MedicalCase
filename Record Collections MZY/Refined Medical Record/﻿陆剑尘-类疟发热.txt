@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-类疟发热
 cure-表里失和
 cure-痰湿阻遏
 cure-邪正交争

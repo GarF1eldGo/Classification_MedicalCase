@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-颈项肿硬偏歪
 dia-为风所袭
 cure-驱风养血
 #end

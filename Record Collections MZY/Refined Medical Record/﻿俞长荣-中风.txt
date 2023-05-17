@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-中风
 dia-素多忧思
 dia-痰湿内蕴
 dia-肝阳偏亢春

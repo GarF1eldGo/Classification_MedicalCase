@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-流火
 dia-湿热熏蒸
 dia-血瘀蕴毒
 cure-清热利湿

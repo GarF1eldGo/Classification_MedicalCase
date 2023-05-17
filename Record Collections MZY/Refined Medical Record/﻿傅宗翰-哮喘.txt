@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-哮喘
 dia-外邪犯肺
 cure-宣肺平喘
 cure-脱敏解痉

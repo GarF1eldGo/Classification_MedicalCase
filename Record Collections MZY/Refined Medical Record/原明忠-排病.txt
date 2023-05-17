@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-排病
 dia-营卫气虚
 dia-脾胃不和
 dia-筋肉痿软

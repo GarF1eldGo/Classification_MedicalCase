@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-耳鸣耳聋
 dia-肾阴亏虚
 dia-精不上承
 #end

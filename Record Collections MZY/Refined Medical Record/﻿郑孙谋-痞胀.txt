@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-痞胀
 dia-脾虚运化
 dia-清阳不升
 dia-浊阴不降

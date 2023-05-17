@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-阴虚瘀毒
 dia-阴虚瘀滞
 dia-内毒蕴结
 cure-清热养阴

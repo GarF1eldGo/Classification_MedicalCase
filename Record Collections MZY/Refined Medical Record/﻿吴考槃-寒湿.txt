@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-寒湿
 dia-感受寒湿
 dia-清阳失宜
 cure-治宜疏解

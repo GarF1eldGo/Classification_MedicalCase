@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-邪伏募原
 dia-阴亏虚热内生
 dia-浊滞中阻
 #end

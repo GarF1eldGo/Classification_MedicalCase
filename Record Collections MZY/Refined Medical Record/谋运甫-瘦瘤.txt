@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-瘦瘤
 dia-肝郁胃虚
 cure-清肝解郁
 cure-养胃宁心

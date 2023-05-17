@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-痹疮
 dia-气血两亏
 dia-肌肤失养
 cure-益气养血

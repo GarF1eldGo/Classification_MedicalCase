@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-^穰
 dia-气滞血感
 cure-理气活血
 cure-清下焦郁热

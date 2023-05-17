@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-崩漏
 dia-系气血两亏
 dia-肝肾之阴不足
 dia-虚火内扰

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肿胀
 dia-水气内停
 dia-风邪外袭
 #end

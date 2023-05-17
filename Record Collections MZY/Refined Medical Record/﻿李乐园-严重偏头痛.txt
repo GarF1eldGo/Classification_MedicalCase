@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-严重偏头痛
 dia-肝胆湿热挟风火
 cure-清泻肝胆湿热
 #end

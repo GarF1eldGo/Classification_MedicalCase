@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-缩阴症
 dia-脉证合参
 dia-肝经虚寒
 cure-温肝散寒

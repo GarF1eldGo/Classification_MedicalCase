@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-低热症
 dia-邪踞阴分
 dia-脯热早凉
 cure-清热除湿

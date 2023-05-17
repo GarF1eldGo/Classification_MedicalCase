@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-百合病
 #end
 八、百合地黄汤加味治愈百合病一例
 XX

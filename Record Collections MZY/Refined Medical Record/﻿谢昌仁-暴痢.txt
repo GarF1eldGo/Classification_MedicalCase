@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-暴痢
 dia-清浊相干
 dia-乱于脾胃
 cure-回阳救逆

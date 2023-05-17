@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-头晕
 dia-肝血不足
 cure-养营调络
 cure-柔肝熄风

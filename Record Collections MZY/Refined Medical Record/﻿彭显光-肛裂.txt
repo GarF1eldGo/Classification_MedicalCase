@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肛裂
 dia-肛裂
 #end
 ﻿九、扩肛按摩治愈肛裂一例

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-骨疽
 dia-肾虚骨空
 dia-风寒侵袭
 cure-和阳化滞

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-黄疸
 dia-阴虚多火
 dia-灼液为痰
 cure-苦辛淡渗

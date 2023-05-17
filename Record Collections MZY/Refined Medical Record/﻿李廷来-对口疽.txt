@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-对口疽
 dia-阴虚火旺
 dia-温热下注
 cure-清湿热

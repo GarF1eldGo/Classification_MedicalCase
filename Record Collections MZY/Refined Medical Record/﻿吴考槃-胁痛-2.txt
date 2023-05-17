@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胁痛
 dia-肝血不足
 dia-脉失洒陈
 cure-调营和肝

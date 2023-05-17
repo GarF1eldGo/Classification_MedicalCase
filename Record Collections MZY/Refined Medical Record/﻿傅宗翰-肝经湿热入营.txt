@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肝经湿热入营
 dia-合参脉证
 dia-湿热逗留不尽
 #end

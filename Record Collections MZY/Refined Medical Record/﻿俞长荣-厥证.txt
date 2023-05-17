@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-厥证
 dia-寒湿侵袭
 dia-气血郁滞
 cure-散寒除湿

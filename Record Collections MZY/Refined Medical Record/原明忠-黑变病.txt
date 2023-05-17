@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-黑变病
 dia-肝郁脾虚
 dia-水反侮土
 cure-疏肝健脾

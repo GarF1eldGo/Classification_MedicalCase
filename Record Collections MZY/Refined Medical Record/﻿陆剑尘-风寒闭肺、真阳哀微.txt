@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-风寒闭肺、真阳哀微
 dia-风寒闭肺
 dia-真阳衰微
 cure-温阳开肺

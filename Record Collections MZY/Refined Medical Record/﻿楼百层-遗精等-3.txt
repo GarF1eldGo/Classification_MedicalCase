@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-遗精等
 dia-情志怫郁
 dia-气结不化
 dia-痰瘀互凝

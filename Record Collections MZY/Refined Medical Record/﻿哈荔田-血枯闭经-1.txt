@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-血枯闭经
 dia-精血亏损
 dia-命火虚衰
 dia-冲任不盛

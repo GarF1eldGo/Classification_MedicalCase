@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-小儿麻痹
 dia-气血不足
 dia-肌肉脆薄
 dia-暑风夹痰

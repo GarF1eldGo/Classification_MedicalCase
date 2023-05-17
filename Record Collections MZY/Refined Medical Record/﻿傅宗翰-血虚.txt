@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-血虚
 dia-脾胃不足
 dia-化生气血
 dia-血失统摄

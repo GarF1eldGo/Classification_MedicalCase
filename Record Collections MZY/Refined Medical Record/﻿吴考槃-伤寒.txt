@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-伤寒
 dia-太阳伤塞
 #end
 一、麻黄汤加味治愈伤寒一例

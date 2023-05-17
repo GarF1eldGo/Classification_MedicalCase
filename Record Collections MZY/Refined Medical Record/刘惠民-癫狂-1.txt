@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-癫狂
 dia-气郁痰结
 dia-薄闭清窍
 cure-泻火涤痰调气

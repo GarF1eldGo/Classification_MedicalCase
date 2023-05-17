@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-药毒发斑
 dia-毒热内迫营血
 dia-伤阴灼液
 dia-外发肌肤而成

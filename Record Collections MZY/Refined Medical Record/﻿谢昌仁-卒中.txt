@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-卒中
 dia-肝阳上亢
 dia-引动内风
 dia-风阳痰火交炽

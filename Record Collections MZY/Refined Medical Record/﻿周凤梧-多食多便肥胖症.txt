@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-多食多便肥胖症
 dia-实热内滞
 cure-通因通用
 cure-泄府积热

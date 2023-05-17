@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肩痹等
 dia-痰浊内阻
 dia-肺失宣降
 dia-气郁痰壅

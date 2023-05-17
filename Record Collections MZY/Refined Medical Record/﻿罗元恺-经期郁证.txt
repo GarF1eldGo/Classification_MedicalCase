@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-经期郁证
 dia-肝郁气滞
 dia-肝气横逆犯脾
 cure-疏肝解郁

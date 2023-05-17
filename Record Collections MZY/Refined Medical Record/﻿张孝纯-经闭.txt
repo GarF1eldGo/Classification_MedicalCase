@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-经闭
 cure-健脾利温
 cure-通经活血
 #end

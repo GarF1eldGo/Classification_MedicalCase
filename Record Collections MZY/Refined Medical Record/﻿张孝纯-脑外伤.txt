@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-脑外伤
 cure-调理气血
 #end
 治疗脑外伤一例

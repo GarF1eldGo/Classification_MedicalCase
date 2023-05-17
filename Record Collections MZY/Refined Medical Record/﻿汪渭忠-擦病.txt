@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-擦病
 dia-气滞郁结
 dia-痰浊凝聚
 cure-理气解部

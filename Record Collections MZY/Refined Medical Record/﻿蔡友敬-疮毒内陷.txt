@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-疮毒内陷
 dia-热毒炽盛
 dia-营阴受伤
 dia-神明受扰

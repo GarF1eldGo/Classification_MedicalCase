@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-偏瘫
 cure-益肝补肾
 cure-化瘀开窍
 cure-佐以潜阳

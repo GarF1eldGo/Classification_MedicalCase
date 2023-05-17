@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-子痫
 dia-肝风内动
 dia-阴虚火旺
 dia-筋脉失养

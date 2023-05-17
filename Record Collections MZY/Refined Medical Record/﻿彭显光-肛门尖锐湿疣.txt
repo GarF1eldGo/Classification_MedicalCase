@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肛门尖锐湿疣
 cure-滋养肝肾
 cure-活血化瘀
 cure-利湿

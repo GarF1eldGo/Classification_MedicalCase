@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-偏头痛
 cure-拟袪风行血
 cure-和解少阳
 dia-气血运行受阻

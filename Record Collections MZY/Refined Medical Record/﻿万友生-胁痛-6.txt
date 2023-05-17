@@ -1,6 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胁痛
+cure-疏解肝气郁结
 #end
 
 例六曹Xx，女，35岁。

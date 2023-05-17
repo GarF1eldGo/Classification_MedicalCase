@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-狐惑
 dia-邪伏厥阴
 dia-火郁心脾
 cure-清心泻肝

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-咳血
 dia-阴竭阳脱
 dia-气血涣散
 #end

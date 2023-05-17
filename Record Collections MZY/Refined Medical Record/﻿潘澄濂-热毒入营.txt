@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-热毒入营
 dia-热毒入营
 dia-煎熬气血
 dia-肝肾具损

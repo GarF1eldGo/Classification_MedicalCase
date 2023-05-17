@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-阳痿不育
 dia-肾气不充
 dia-虚阳浮越
 cure-温肾扶阳

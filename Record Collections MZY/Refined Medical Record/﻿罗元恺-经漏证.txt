@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-经漏证
 dia-肝肾阴虚
 cure-滋养肝肾
 #end

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-脱肛
 dia-脾气虚型
 cure-补气健脾
 #end

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-交肠病
 dia-忍漫气胀
 dia-呼肠损伤
 dia-清浊混淆

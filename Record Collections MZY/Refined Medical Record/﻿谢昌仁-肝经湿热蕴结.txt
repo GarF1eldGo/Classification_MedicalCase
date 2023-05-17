@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肝经湿热蕴结
 dia-湿热阻滞
 dia-瘀血凝结
 dia-膀胱不利

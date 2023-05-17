@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-奔豚气
 #end
 七、奔豚汤治愈奔豚气一例
 XX

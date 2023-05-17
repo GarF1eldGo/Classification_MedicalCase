@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-风排
 cure-补肾填精
 cure-宣窍化痰
 #end

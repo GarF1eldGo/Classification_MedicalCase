@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-黄胖病
 dia-湿邪困牌
 dia-气虚血少
 cure-燥湿健脾

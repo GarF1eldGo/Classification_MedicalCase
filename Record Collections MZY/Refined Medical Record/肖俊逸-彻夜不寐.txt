@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-彻夜不寐
 dia-阴虚血乏
 dia-水亏火旺
 dia-心神不安

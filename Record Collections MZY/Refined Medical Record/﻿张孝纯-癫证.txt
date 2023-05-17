@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-癫证
 dia-心郁既甚
 dia-积忧成疾
 cure-开窍化统

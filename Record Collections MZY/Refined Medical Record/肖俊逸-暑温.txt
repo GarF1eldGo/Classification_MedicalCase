@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-暑温
 cure-清暑解表
 cure-经腑并治
 #end

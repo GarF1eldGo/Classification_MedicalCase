@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-营血热毒
 dia-热毒侵人营血
 cure-津血解毒
 cure-滋阴清热

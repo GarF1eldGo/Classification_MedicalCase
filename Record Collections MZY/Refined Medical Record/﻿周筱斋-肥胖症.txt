@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肥胖症
 dia-水谷成痰
 dia-痰凝气滞血瘀
 cure-运睥燥温化痰

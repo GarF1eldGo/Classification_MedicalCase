@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-心悸
 dia-湿热内蕴
 cure-疏理
 #end

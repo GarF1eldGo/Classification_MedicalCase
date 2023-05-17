@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-不孕
 dia-气滞血瘀
 dia-湿热蕴结
 cure-理气化瘀

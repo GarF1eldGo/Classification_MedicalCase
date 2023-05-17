@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肩痹等
 dia-病由卫气不固
 dia-腾理空疏
 dia-风寒湿邪

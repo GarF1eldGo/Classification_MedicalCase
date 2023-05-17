@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-舌根结节
 dia-肾水不足
 dia-虚火上炎
 dia-苗窍瘀阻

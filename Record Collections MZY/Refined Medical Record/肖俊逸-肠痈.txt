@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肠痈
 dia-温热壅盛
 cure-化瘀清
 #end

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-夜半腿痛
 dia-气血不足
 cure-温肝和血
 cure-则痛自躅

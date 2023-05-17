@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-鼻炎
 dia-病乃肺虚
 dia-气机不调
 dia-清窍壅塞

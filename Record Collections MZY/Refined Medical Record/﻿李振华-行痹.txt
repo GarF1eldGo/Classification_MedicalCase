@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-行痹
 dia-风湿
 dia-流窜经络
 cure-驱风通络

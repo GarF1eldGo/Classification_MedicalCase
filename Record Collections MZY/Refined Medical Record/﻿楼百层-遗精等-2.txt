@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-遗精等
 dia-体位失常
 dia-经脉违和
 dia-气血壅阻

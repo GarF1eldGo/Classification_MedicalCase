@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-口疮
 cure-斑在浅表
 cure-韧硬于中
 #end

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-虚狂
 dia-脉症合参
 dia-虚狂之症
 cure-振脾肾阳

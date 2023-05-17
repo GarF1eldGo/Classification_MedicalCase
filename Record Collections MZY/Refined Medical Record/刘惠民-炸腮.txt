@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-炸腮
 dia-外感病毒
 dia-阳明
 dia-少阳蕴热

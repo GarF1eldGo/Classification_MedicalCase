@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胎漏
 dia-胎元不固
 cure-固胎止血
 #end

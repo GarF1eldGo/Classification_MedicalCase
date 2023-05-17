@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-郁症
 dia-废热都结
 dia-心神被扰
 cure-清热化痰

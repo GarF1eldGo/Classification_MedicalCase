@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-脱肛
 cure-补中益气
 cure-养血安神
 #end

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-腹痛
 dia-脾寒肝狂
 dia-胃气上逆
 cure-温脾安肠

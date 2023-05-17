@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-骨槽风
 dia-外感风热
 dia-风火蕴结少阳
 cure-清散少阳风热

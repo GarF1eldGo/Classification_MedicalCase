@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-瘀滞
 dia-正气不足
 dia-痰浊阻于经络
 dia-血络瘀滞

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-失音
 dia-脑肾阴亏
 dia-虚火上炎
 cure-养阴润肺

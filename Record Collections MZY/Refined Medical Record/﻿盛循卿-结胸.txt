@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-结胸
 dia-湿热互结
 dia-郁滞胸院
 #end

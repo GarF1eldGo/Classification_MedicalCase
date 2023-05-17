@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-产后寒战发热
 dia-肝经风火
 cure-清热化痰
 cure-养血熄风

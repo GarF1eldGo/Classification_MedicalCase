@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-挂夏
 dia-中阳不足
 dia-气机运化失常
 cure-湿健脾治

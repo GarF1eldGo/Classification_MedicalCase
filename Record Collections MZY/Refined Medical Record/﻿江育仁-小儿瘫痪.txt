@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-小儿瘫痪
 dia-风邪留络
 cure-搜风活血
 cure-护阴

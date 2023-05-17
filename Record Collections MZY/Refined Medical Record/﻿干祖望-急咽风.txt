@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-急咽风
 dia-时邪束伏手太阴经
 cure-清轻宣肺
 #end

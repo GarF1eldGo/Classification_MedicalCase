@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-伏邪晚发类疟
 cure-轻清透达
 cure-甘淡渗湿
 #end

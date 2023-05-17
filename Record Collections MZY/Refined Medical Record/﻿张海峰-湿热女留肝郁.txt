@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-湿热女留肝郁
 dia-湿热久留
 dia-肝胆之气郁结
 cure-清热渗湿

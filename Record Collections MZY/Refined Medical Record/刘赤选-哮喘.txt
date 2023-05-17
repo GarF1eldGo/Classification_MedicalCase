@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-哮喘
 cure-补阳和阴
 cure-固中气
 cure-消痰利水

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肌吻
 dia-邪热伏于营分
 dia-迫血妄行
 cure-清热凉血

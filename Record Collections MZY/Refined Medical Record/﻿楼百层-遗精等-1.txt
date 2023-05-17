@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-遗精等
 dia-腰为肾所主
 dia-肾气虚弱
 #end

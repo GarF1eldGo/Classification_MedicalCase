@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-不展
 dia-湿热郁积
 cure-清肠解毒
 #end

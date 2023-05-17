@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-崩漏
 cure-疏肝理气
 cure-导滞凉血
 #end

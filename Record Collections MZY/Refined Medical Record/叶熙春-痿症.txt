@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-痿症
 dia-湿热久蕴
 dia-营卫受阻
 cure-气血并补

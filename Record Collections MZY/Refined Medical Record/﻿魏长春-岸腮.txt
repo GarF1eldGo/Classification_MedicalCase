@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-岸腮
 dia-邪热内建
 dia-少阳经腑
 cure-清热解毒通腑

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-暑伤气津
 cure-暑伤气阴
 cure-津气欲脱
 cure-脉散合清

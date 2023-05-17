@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-产后瘀血
 cure-以下瘀为先
 #end
 五、下瘀血汤治愈产后瘀血一例

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-阴阳两虚
 dia-阳损及阴
 dia-气血俱虚
 cure-补肾脾

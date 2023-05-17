@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-惊悸
 dia-心牌阳虚
 dia-痰饮停积
 cure-温阳补气

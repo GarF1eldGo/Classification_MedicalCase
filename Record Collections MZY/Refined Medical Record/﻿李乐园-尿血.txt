@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-尿血
 dia-阴虚血热
 cure-养阴清热止血
 #end

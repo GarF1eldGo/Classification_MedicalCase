@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胃脱痛
 dia-气阴大虚
 dia-胃失胸养
 dia-血失鼓动

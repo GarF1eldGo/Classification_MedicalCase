@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胸痹心痛
 dia-心气不足
 dia-心血亏耗
 dia-气滞血症

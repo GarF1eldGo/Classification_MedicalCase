@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-惊风
 dia-正气亏虚
 dia-邪乘虚入
 dia-耗伤气血

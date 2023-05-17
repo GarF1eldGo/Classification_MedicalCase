@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肺闭咳喘重症
 dia-肺气不宜
 dia-脾败正虚
 cure-标本并治

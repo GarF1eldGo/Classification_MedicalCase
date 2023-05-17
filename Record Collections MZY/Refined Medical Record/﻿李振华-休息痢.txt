@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-休息痢
 dia-脾胃虚弱
 dia-寒热互结
 dia-阻滞肠道

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-脱肛
 dia-气血虚兼湿热型
 cure-补中益气
 cure-清热化湿

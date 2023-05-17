@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-腹痛
 dia-寒伤厥阴
 dia-络阻失宜
 cure-通阳散寒

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-低热症
 dia-邪伏阴分
 dia-夜热早凉
 cure-透邪保津

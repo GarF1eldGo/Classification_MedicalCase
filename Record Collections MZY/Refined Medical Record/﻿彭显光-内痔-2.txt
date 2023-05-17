@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-内痔
 cure-补气健脾
 cure-收敛止血
 #end

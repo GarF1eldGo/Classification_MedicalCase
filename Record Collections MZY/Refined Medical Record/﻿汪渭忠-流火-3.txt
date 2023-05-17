@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-流火
 cure-清热凉血解毒
 cure-活血通络
 #end

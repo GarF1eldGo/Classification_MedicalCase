@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-子宫出血）
 dia-血崩
 dia-气不摄血
 cure-益气摄血

@@ -1,6 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
+disease-失眠
+dia-心肝血虚火旺
+cure-滋养心肝
+cure-补肺脾
 #end
 
 例一田Xx,男，43岁。

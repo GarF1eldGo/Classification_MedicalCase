@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-阳痿
 dia-病属阳痿
 dia-湿热下注
 dia-肝郁化火

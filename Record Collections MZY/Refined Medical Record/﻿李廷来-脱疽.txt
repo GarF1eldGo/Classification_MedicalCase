@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-脱疽
 dia-热毒炽盛
 cure-清热解毒
 #end

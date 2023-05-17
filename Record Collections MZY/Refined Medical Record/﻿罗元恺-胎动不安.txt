@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胎动不安
 cure-滋肾健脾
 cure-益气安胎
 cure-养肝清热止血

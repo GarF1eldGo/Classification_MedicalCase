@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-痛经
 dia-血分虚寒
 dia-气滞血郁
 cure-温运血行

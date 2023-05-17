@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-火瘦气
 dia-阳虚
 dia-气血虚寒
 cure-温补气血

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胃脱痛
 dia-肝气犯胃
 dia-胃失和降
 dia-气滞热郁

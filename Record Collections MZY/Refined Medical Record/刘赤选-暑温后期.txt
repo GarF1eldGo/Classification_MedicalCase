@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-暑温后期
 dia-余邪未清
 dia-痰浊留阻
 #end

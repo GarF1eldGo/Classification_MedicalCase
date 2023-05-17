@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-耳聋
 dia-巨晌惊魂骇魄
 cure-理气化瘀
 #end

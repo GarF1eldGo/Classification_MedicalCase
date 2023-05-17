@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-水肿
 dia-风邪外客
 dia-脾湿不化
 cure-宣肺胜湿

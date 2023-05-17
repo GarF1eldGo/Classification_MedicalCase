@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-水肿
 dia-暑湿内闭
 dia-高热昏厥现
 cure-化气兼清利水

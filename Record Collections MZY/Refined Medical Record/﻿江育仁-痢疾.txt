@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-痢疾
 dia-肠胃不清
 dia-寒热夹杂
 cure-苦辛通降

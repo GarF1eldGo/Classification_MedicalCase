@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-中气下陷重症
 dia-中气下陷
 dia-胸阳不振
 cure-健脾益气

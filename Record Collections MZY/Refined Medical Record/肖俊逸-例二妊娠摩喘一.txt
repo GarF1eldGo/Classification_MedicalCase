@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-例二妊娠摩喘一
 dia-热哮
 dia-痰热实证
 #end

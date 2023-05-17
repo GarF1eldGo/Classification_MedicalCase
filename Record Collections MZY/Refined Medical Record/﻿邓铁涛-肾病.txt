@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-肾病
 #end
 八、补脾益肾远精法治愈肾病一例
 X

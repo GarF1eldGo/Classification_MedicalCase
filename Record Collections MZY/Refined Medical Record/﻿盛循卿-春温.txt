@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-春温
 dia-春温
 dia-热在少阳
 cure-和解少阳

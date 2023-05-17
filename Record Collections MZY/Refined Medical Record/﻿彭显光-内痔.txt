@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-内痔
 dia-湿热
 #end
 七、枯痔钉治愈内痔一例

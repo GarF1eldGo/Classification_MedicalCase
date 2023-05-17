@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-瘦瘤
 dia-肝气久郁
 dia-痰瘀交阻
 cure-消瘦散绪

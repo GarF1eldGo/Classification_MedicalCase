@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-类中
 dia-脾弱湿困
 dia-正气本灵
 cure-袪风化痰

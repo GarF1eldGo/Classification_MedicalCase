@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-昏迷
 dia-邪毒之气上犯肺系
 dia-逆传心包
 #end

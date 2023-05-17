@@ -1,6 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
+disease-水肿
+dia-阳气不足
+cure-宣降肺气
+cure-疏运脾气
 #end
 
 例四年XX,女，55岁。

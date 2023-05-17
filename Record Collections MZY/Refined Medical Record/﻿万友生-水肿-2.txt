@@ -1,6 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
+disease-水肿
+dia-阴水寒湿伤阳
+cure-利尿消肿
 #end
 
 例二涂,女，55岁。

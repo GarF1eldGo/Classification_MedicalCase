@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-齿艇
 dia-肾阳不足
 dia-阴寒内盛
 dia-浮阳上雄

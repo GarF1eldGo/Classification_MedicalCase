@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-鼻啦
 cure-和解少阳
 cure-搜风散邪
 #end

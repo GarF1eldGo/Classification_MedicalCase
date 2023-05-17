@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-尿浊
 dia-睥肾不足
 dia-湿热下注
 dia-酒湿阻络

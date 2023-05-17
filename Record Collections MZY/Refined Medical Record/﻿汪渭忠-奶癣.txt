@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-奶癣
 dia-风湿热邪
 dia-蕴阻肌肤
 cure-清热利湿

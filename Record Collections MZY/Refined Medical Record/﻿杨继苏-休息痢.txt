@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-休息痢
 dia-痢疾日久
 dia-脾阳虚弱
 dia-温热滞留肠道

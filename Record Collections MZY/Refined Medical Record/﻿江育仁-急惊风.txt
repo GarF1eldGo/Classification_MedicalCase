@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-急惊风
 dia-邪毒化火
 dia-热结阳明
 dia-挟风内陷厥阴

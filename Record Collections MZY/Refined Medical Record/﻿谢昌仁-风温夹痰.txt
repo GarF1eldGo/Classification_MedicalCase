@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-风温夹痰
 dia-风热夹痰
 dia-湿热夹滞
 cure-清肺化痰

@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-狂证
 dia-阳明燥实
 dia-狂证
 cure-得下燥结

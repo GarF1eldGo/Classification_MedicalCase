@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-皮痹
 dia-阳虚卫外不固
 dia-肌肤寒凝血瘀
 dia-媵理痹塞不通
