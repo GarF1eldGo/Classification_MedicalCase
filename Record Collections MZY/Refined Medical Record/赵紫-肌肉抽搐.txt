@@ -3,7 +3,9 @@
 #start
 dia-肝经郁火
 dia-阳升风动
-cure-舒肝解郁、平肝熄风、佐化痰浊
+cure-舒肝解郁
+cure-平肝熄风
+cure-化痰浊
 #end
 十、辨清标本治愈肌肉抽搐一例
 xx

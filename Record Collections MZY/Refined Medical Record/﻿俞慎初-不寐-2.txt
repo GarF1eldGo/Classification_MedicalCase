@@ -1,10 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证为心肾不交
+dia-心肾不交
 dia-肝牌不和
-cure-法宜宁心补肾
-cure-平肝益脾为主
+cure-宁心补肾
+cure-平肝益脾
 #end
 
 例二张,男，65岁。

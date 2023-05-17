@@ -1,7 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-cure-平肝熄风兼养肝阴
+dia-肝阴不足
+dia-肝阳上冒
+cure-平肝熄风
+cure-养肝阴
 #end
 
 例二刘XX,男，46岁。

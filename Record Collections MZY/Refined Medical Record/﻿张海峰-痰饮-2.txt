@@ -3,6 +3,8 @@
 #start
 dia-脾肺阳虚
 dia-寒饮内留
+cure-温阳涤饮
+cure-降气化痰
 #end
 
 例三王某，男性，53岁。

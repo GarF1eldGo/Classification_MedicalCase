@@ -1,13 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证属阴虚血乏
+dia-阴虚血乏
 dia-水亏火旺
 dia-心神不安
-dia-故不能寐
-cure-非守方久服
-cure-不得痊愈治以大剂滋阴清火
-cure-补血安
+cure-滋阴清火
+cure-补血安神
 #end
 治愈彻夜不寐一例
 万XX,男，55岁Q

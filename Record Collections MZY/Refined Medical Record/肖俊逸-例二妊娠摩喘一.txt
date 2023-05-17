@@ -1,9 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-cure-根据脉舌症分析
-cure-属于热哮
-cure-痰热实证当用
+dia-热哮
+dia-痰热实证
 #end
 例二妊娠摩喘一例
 XX

@@ -4,9 +4,9 @@
 dia-心气不足
 dia-心睥不调
 dia-阴亦亏乏所致
-cure-治宜益气养阴
-cure-宁心安神为主
-cure-佐以调摄心脾
+cure-益气养阴
+cure-宁心安神
+cure-调摄心脾
 #end
 
 例一李,男，76岁。

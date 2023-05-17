@@ -1,15 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此因胃热炽盛
-dia-灼伤阴津
-dia-加之肝经湿热蕴结
-dia-此为湿热阻滞
+dia-湿热阻滞
 dia-瘀血凝结
 dia-膀胱不利
 dia-腑气不通
-dia-乃因湿热结于下焦
-dia-膀胱气化不利而生“盛闭.
 cure-通腑泄浊
 cure-清利州都
 #end

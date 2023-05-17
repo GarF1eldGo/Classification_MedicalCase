@@ -1,10 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-cure-证属肾劳
+cure-肾劳
 cure-气血不足
 cure-肝胃两虚
-cure-治当兼
+cure-气血双补
 #end
 四、气血双补法治愈肾劳一例
 XX,男，38岁c

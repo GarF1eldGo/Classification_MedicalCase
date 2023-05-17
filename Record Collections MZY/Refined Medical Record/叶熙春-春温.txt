@@ -1,7 +1,9 @@
 #book
 中国现代名中医医案精华
-#start
-cure-亟拟养阴潜阳
+#star
+dia-阴液凋竭
+dia-虚阳浮越
+cure-养阴潜阳
 cure-宣窍达邪
 #end
 ﻿十、大定风珠治愈春温一例

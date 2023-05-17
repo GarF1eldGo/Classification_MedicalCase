@@ -3,7 +3,7 @@
 #start
 dia-热在气分
 dia-阳明腑实
-cure-当清热解毒
+cure-清热解毒
 cure-通里攻下
 #end
 五、清下法治愈温毒一例

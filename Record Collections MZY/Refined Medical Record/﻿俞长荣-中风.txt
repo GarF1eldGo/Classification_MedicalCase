@@ -1,14 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-患者体形肥胖
 dia-素多忧思
 dia-痰湿内蕴
 dia-肝阳偏亢春
-cure-拟按中经兼中府治
-cure-脑予育阴熄风
+cure-育阴熄风
 cure-开窍涤痰
-cure-冀能转机
 #end
 H,培本涤邪法治愈中风一例
 杨XX，女，50岁。

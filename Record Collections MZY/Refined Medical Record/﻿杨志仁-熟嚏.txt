@@ -1,10 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-既有肾虚
+dia-肾虚
 dia-复感风热
-cure-先清风热
-cure-再补肾气
+cure-清风热
+cure-补肾气
 #end
 五、疏风清热、补肾益气法治愈熟嚏一例
 x

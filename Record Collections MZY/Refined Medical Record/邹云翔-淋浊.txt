@@ -1,10 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-cure-方拟益肾
-cure-理湿
+dia-肾虚挟湿
+dia-络脉失和
+cure-益肾理湿
 cure-和络
-cure-林本兼顾
 #end
 ﻿H^一，益肾理湿和络法治愈淋浊一例
 移X,男，42岁。

@@ -1,10 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证系邪伏阴分
+dia-邪伏阴分
 dia-夜热早凉
-cure-仿雷氏法
-cure-以透邪保津为主
+cure-透邪保津
 #end
 
 例二热邪佛阴低热

@@ -1,20 +1,13 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此乃湿热蕴结下焦
-dia-煎熬尿液
-dia-积结成石
-dia-阻塞水道
-dia-
-dia-证属内伤气滞
-dia-砂石内伤血络
-cure-当以渗利湿热为主
-cure-凉血止血为辅拟予五金汤合导
-cure-当清热利湿
+dia-湿热蕴结下焦
+dia-内伤气滞
+dia-内伤血络
+cure-渗利湿热
+cure-清热利湿
 cure-化结止痛
-cure-佐原血滋阴
-cure-投五金汤加味
-cure-
+cure-原血滋阴
 #end
 
 例二陈XX,男，27岁。

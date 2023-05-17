@@ -3,8 +3,8 @@
 #start
 dia-湿邪困牌
 dia-气虚血少
-cure-燥湿健脾为主
-cure-兼以益气
+cure-燥湿健脾
+cure-益气
 #end
 一.燥湿健脾为主治愈黄胖病一例
 何K,男，45岁。

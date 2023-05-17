@@ -1,12 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-老人体弱
-dia-骤遇暴雨
 dia-寒遏经络
 dia-营卫失调
-dia-乃太阳
-cure-拟桂枝合真武汤治之
 #end
 挟少阴证一例
 xx

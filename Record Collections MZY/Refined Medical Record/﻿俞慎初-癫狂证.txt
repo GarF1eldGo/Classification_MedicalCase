@@ -1,11 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证由于痰火郁结
-dia-气血凝滞所致
-cure-以活血逐瘀
-cure-理气解郁为治
-cure-与殖狂梦醒汤
+dia-痰火郁结
+dia-气血凝滞
+cure-活血逐瘀
+cure-理气解郁
 #end
 -治愈癫狂证一例
 俞XX，

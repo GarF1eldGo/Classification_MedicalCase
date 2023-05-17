@@ -2,7 +2,7 @@
 中国现代名中医医案精华
 #start
 dia-气血不足
-dia-肝风旁走.
+dia-肝风旁走
 cure-益气养血
 cure-搜风通络
 #end

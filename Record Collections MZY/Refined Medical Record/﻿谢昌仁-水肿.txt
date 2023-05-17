@@ -1,10 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-cure-目前治疗
-cure-应以肺脾为主
-cure-法用宜肺平喘运
-cure-脾行水
+dia-脾得两虚
+dia-运化失权
+cure-宜肺平喘
+cure-运脾行水
 #end
 治愈水肿一例
 赵xx,男性，45岁o
