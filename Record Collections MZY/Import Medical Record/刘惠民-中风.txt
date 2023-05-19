@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-中风
 dia-肝肾阴虚
 dia-风康阻闭经络
 cure-滋朴肝肾

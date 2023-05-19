@@ -1,10 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此属心牌阳虚
+disease-惊悸
+dia-心牌阳虚
 dia-痰饮停积
-cure-治宜温阳补气
-cure-消痰利水用苓桂术甘汤加味
+cure-温阳补气
+cure-消痰利水
 #end
 六、苓桂术甘汤治愈惊悸一例
 XX

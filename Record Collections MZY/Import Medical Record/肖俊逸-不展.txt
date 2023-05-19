@@ -1,9 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-cure-详审脉症
-cure-认为肠中湿热郁积
-cure-腐败毒郛滞
+disease-不展
+dia-湿热郁积
+cure-清肠解毒
 #end
 例四治愈不展一例
 刘XX,男。

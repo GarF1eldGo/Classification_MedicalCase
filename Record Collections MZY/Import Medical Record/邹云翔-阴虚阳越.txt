@@ -1,10 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-症属肾阴亏损
+disease-阴虚阳越
+dia-肾阴亏损
 dia-虚阳上扰
-cure-从滋养肝肾
-cure-平潜虚阳治疗.
+cure-滋养肝肾
+cure-平潜虚阳
 #end
 治愈阴虚阳越一例
 顾XX,男，35岁。

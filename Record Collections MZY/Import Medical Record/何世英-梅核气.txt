@@ -1,6 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
+disease-梅核气
+dia-肝肾阴亏
+dia-津不上承
 cure-养阴润燥
 cure-活血化瘀
 #end

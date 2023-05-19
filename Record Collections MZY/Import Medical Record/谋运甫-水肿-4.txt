@@ -1,12 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证明肾功能既衰于前
-dia-胃气将复败于后
-dia-高龄若此
-dia-
-cure-亟应先复胃气
-cure-后再缓图治肾可也
+disease-水肿
+cure-复胃气
+cure-治肾
 #end
 
 例四陈xX,男，73岁。

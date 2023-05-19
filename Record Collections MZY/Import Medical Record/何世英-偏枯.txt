@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-偏枯
 dia-肝阳上亢
 dia-风痰痹阻脉络
 dia-发为偏枯

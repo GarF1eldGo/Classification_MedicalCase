@@ -1,10 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
+disease-哮喘
 cure-实喘治肺
 cure-虚喘治肾
-cure-如今肺肾同亏
-cure-治拟益
+cure-肺肾同亏
+cure-益气补肾
 #end
 二.益气补肾法治愈哮喘一例
 张男，65岁。卜—•月。

@@ -1,7 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-属阴血不足
+disease-顽固性头风
+dia-阴血不足
 dia-肝阳上亢
 dia-发为头风
 dia-迁延不已

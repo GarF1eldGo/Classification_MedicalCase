@@ -1,9 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-寒疝
-dia-证属肝肾寒湿
+disease-寒疝
+dia-肝肾寒湿
 dia-水湿停滞
+cure-温肝肾
+cure-利水湿
 #end
 九、茵陈五苓散治愈寒疝一例
 吉X,男，42岁。

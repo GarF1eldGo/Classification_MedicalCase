@@ -1,8 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
+disease-疟病
 dia-病在半表半里之间
-cure-拟以截疟之法治之
+cure-截疟之法
 #end
 
 例一刘,男，34岁。

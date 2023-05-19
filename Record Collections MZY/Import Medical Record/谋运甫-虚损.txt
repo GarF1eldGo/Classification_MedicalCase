@@ -1,8 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-dia-属气血两虚
-cure-拟健睥益气养血法
+disease-虚损
+dia-气血两虚
+cure-健睥益气养血
 #end
 一、益血之源法治愈虚损一例
 X

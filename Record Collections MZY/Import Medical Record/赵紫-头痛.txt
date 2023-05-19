@@ -1,10 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
+disease-头痛
 dia-脉症互参
-dia-属气虚头痛
-cure-治以补中益气
-cure-佐以温肾安神
+dia-气虚头痛
+cure-补中益气
+cure-温肾安神
 #end
 一、补中益气为主治愈头痛一例
 xx

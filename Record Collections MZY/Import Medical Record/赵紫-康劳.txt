@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-康劳
 dia-脾肾两亏
 dia-肝失温养
 cure-温补肝肾

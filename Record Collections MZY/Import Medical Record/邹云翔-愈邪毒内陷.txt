@@ -1,10 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证属脾虚湿滞
-cure-治以温中健脾
+disease-愈邪毒内陷
+dia-脾虚湿滞
+cure-温中健脾
 cure-袪风和络
-cure-佐以渗利
+cure-渗利
 #end
 愈邪毒内陷一例
 曾X,女，15岁。

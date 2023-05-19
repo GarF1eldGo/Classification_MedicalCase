@@ -1,8 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-诊属每日疟
-dia-由于阴分已伤
+disease-疟病
+dia-阴分已伤
+cure-滋阴截疟
+cure-扶正驱邪
 #end
 
 例二孙x,男，12岁。

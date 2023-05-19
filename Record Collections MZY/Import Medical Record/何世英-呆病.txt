@@ -1,8 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
+disease-呆病
 dia-肝气郁结
 dia-肝风内动
+cure-疏肝解郁
+cure-熄风定志
 #end
 六、疏肝解郁、熄风定志法治愈呆病一例
 冯XX,女，43岁。

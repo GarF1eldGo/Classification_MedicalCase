@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-胃脱痛
 dia-肝胃不和
 dia-痰热互结
 #end

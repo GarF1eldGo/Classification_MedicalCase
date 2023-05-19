@@ -1,10 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-诊为热毒侵人营血
-cure-法当大剂津血解毒
+disease-营血热毒
+dia-热毒侵人营血
+cure-津血解毒
 cure-滋阴清热
-cure-选用犀角地黄汤合
 #end
 治愈营血热毒一例
 x

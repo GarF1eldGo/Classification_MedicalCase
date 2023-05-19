@@ -1,7 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证属肾水不足
+disease-舌根结节
+dia-肾水不足
 dia-虚火上炎
 dia-苗窍瘀阻
 dia-舌根结节

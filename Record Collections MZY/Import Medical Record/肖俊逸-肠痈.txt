@@ -1,9 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此乃温热壅盛
-dia-肠痈已成脓
-cure-急当化瘀清下法
+disease-肠痈
+dia-温热壅盛
+cure-化瘀清
 #end
 七、化瘀清下法治愈肠痈一例
 Xx

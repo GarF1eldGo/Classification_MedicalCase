@@ -1,13 +1,14 @@
 #book
 中国现代名中医医案精华
 #start
+disease-癫狂
 dia-气郁痰结
 dia-阻闭神明
 dia-心血内亏
 dia-心神失养
 cure-理气化痰
 cure-清肝滋肾
-cure-养心安神1
+cure-养心安神
 #end
 
 例二吕X,女，22岁。

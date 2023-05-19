@@ -1,7 +1,8 @@
 #book
 中国现代名中医医案精华
 #start
-dia-脑18不充
+disease-智迟
+dia-脑融不充
 dia-肝风未熄
 cure-平肝熄风
 cure-滋益肝肾

@@ -1,7 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-cure-拟方兼顺.
+disease-愈肾咳
+dia-脾虚蕴痰
+cure-拟方兼顺
 #end
 愈肾咳一例
 郑XX,男，50岁。

@@ -1,11 +1,9 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此为患者先天不足
-dia-后天失调
+disease-虚劳
 dia-肾虚牌弱
-dia-是病之
-cure-治以益肾健脾
+cure-益肾健脾
 cure-补气养血
 #end
 ﻿八、冬虫夏草为主治愈虚劳一例

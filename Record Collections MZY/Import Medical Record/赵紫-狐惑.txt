@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-狐惑
 dia-心脾积热
 dia-肝经郁火
 dia-灼津伤液

@@ -1,12 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-此非情志所伤、痰气郁结、痰火上扰等一般癫狂症
-dia-
-cure-因血瘀蕴结化热
-cure-热盛化火
-cure-法当活血化瘀治其本
-cure-
+disease-癫狂
+dia-痰气郁结
+dia-痰火上扰
+cure-活血化瘀治
 #end
 二、活血化瘀法治愈癫狂一例
 x

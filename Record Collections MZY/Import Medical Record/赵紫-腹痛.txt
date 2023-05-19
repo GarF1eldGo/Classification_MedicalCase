@@ -1,6 +1,7 @@
 #book
 中国现代名中医医案精华
 #start
+disease-腹痛
 dia-牌气虚弱
 dia-健运失职
 cure-益气健脾

@@ -1,9 +1,14 @@
 #book
 中国现代名中医医案精华
 #start
-cure-方用温补下元
+disease-愈腰痛
+dia-肾虚阳弱
+dia-阴寒乘袭
+dia-气滞血瘀
+dia-络随不通
+cure-温补下元
 cure-益气养血
-cure-和络定痛法
+cure-和络定痛
 #end
 愈腰痛一例
 XX

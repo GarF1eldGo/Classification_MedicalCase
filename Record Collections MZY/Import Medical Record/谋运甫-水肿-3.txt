@@ -1,8 +1,11 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证属脾肾亏虚、精血不足
-cure-先领益肾健脾、养血祛湿法
+disease-水肿
+dia-脾肾亏虚
+dia-精血不足
+cure-益肾健脾
+cure-养血祛湿
 #end
 
 例三王xx,男，49岁.

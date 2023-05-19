@@ -1,8 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-cure-拟健脾益气
-cure-佐以升举袪湿法
+disease-肌痹
+dia-脾虚清气下陷
+cure-健脾益气
+cure-升举袪湿
 #end
 四，升阳益气法治疗肌痹一例
 宋X,女，17岁。

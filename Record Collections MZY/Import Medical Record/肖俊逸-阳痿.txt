@@ -1,10 +1,13 @@
 #book
 中国现代名中医医案精华
 #start
-cure-此乃阳损及阴
-cure-阴阳两虚
-cure-不宜温燥太过
-cure-当
+disease-阳痿
+dia-阳损及阴
+dia-阴阳两虚
+dia-温燥太过
+cure-平补阴阳
+cure-滋阴助阳
+cure-祁血生精
 #end
 十三、平补阴阳法治愈阳痿一例
 陈某，男，31岁。

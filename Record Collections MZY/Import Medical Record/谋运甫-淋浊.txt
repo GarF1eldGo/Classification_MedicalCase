@@ -1,9 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-症属下元虚损
-cure-亟宜益肾补脾
-cure-温阳利湿法
+disease-淋浊
+dia-下元虚损
+cure-益肾补脾
+cure-温阳利湿
 #end
 六.益肾补脾、温阳利湿法治愈淋浊一例
 昊xX,男，59岁。

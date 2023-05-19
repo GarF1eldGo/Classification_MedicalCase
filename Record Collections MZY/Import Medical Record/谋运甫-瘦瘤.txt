@@ -1,10 +1,10 @@
 #book
 中国现代名中医医案精华
 #start
-dia-证属肝郁胃虚
-dia-
-cure-拟清肝解郁
-cure-养胃宁心法
+disease-瘦瘤
+dia-肝郁胃虚
+cure-清肝解郁
+cure-养胃宁心
 #end
 三、清肝解郁、养胃宇心法治愈瘦瘤一例
 扬Xx,女，31岁。
